@@ -226,7 +226,7 @@
             "last_commit": "2026-06-30T18:21:16Z",
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 495185
+            "stars": 495574
           }
         },
         {
@@ -240,7 +240,7 @@
             "last_commit": "2023-07-20T07:10:14Z",
             "owner": "Zheaoli",
             "repo": "awesome-coins",
-            "stars": 4085
+            "stars": 4086
           }
         },
         {
@@ -254,7 +254,7 @@
             "last_commit": "2026-07-07T07:00:27Z",
             "owner": "dictcp",
             "repo": "awesome-git",
-            "stars": 2924
+            "stars": 2923
           }
         },
         {
@@ -329,7 +329,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T11:09:14.000Z",
+    "last_updated": "2026-08-14T11:06:36.356Z",
     "original_repository": "openblockchains/awesome-blockchains",
     "original_repository_sha": "ffc699a7542a8536c44d34f923368d0f09ad1ff4",
     "enhanced_repository": "enhansome/enhansome-blockchains",
