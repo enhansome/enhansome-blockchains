@@ -88,7 +88,7 @@
             "last_commit": "2026-08-18T13:28:50Z",
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 497613
+            "stars": 497658
           }
         },
         {
@@ -186,8 +186,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T10:42:14.994Z",
+    "last_updated": "2026-08-19T12:23:09.381Z",
     "original_repository": "openblockchains/awesome-blockchains",
+    "original_repository_id": 103458675,
     "original_repository_sha": "ffc699a7542a8536c44d34f923368d0f09ad1ff4",
     "enhanced_repository": "enhansome/enhansome-blockchains",
     "enhanced_repository_description": null,
