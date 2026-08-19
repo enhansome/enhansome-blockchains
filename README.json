@@ -1,216 +1,77 @@
 {
   "items": [
     {
-      "description": "For blockchain books, see the new Best of Crypto Books page »",
-      "items": [],
-      "title": "What's News?"
-    },
-    {
-      "description": "Libra Shrugged: How Facebook Tried to Take Over the Money by David Gerard, November 2020, 182 Pages -- Introduction: Taking over the money ++ A user's guide to Libra ++ The genesis of Libra: Beller's blockchain ++ To launch a Libra: Let’s start a crypto ++ Bitcoin: why Libra is like this ++ The Libra White Papers ++ Banking the unbanked ++ The Libra Reserve plan and economic stability ++ Libra, privacy and your digital identity ++ The regulators recoil in horror ++ David Marcus before the US House and Senate ++ July to September 2019: Libra runs the gauntlet ++ October 2019: Libra's bad month ++ Mark Zuckerberg before the US House ++ November 2019: The comedown ++ Central bank digital currencies ++ Epilogue: Libra 2.0: not dead yet ++ Appendix: 2010–2013: The rise and fall of Facebook Credits\nFor more about Diem (formerly Libra), see the Awesome Diem (formerly Libra) and Move page »\nFor crypto quotes, see the new 100+ Best of Crypto Quotes - I HODL, you HODL, we HODL! - BREAKING: BITCOIN JUST BROKE $22 000! page »",
-      "items": [],
-      "title": "The Open Blockchains Book of the Year 2020 Award Goes To..."
-    },
-    {
-      "description": "Yes, but what if there's only 21 million of it?\n- Trolly McTrollface",
-      "items": [],
-      "title": "The Best Crypto Quote \"Oracle Saying\" of the Year 2020 Award Goes To..."
-    },
-    {
       "description": "Python • Ruby • JavaScript • Java • Go",
-      "items": [],
-      "title": "Do-It-Yourself (DIY) - Build Your Own Blockchain"
-    },
-    {
-      "description": "How Does Bitcoin Force Consensus Among Byzantine Generals? by Fabio Akita, November 2017\nblockchain-lite - Build your own blockchains with crypto hashes; revolutionize the world with blockchains, blockchains, blockchains one block at a time! by Gerald Bauer, Ruby Advent Calendar 2017 / Day 1, December 2017\nmerkletree library - Build Your Own Crypto Hash Trees; Grow Your Own Money on Trees by Gerald Bauer, Ruby Advent Calendar 2017 / Day 19, December 2017\ncentralbank command line tool (and library) - Print Your Own Money / Cryptocurrency; Run Your Own Federated Central Bank Nodes on the Blockchain Peer-to-Peer over HTTP by Gerald Bauer, Ruby Advent Calendar 2017 / Day 24, December 2017\nA guide to building a blockchain & cryptocurrency from scratch (Source) by Antoine Fink, April 2021",
-      "items": [],
-      "title": "Ruby"
-    },
-    {
-      "description": "Write your own blockchain and Proof-of-Work (PoW) algorithm using Crystal by Bradford Lamson-Scribner, May 2018, (Source)",
-      "items": [],
-      "title": "Crystal"
-    },
-    {
-      "description": "Writing a Tiny Blockchain in JavaScript by Xavier Decuyper, July 2017\nNode.js Blockchain Imlementation: BrewChain: Chain+WebSockets+HTTP Server by Darren Beck, November 2017, (Source) -- Protecting the tea making ledger from unscrupulous colleagues\nBuild your own Blockchain in Javascript/Visualization of Blockchains by Nam Chu Hoai, January 2018",
-      "items": [],
-      "title": "JavaScript"
-    },
-    {
-      "description": "Naivecoin: a tutorial for building a cryptocurrency by Lauri Hartikka, (Source)",
-      "items": [],
-      "title": "TypeScript"
-    },
-    {
-      "description": "Creating Your First Blockchain with Java, Part 1 by Kass, December 2017, (Source)",
-      "items": [],
-      "title": "Java"
-    },
-    {
-      "description": "Let's implement a cryptocurrency in Kotlin by Vasily Fomin, July 2018, (Source)",
-      "items": [],
-      "title": "Kotlin"
-    },
-    {
-      "description": "Blockchain by Example in SQL Server by Benjamin Campbell, December 2017, (Source)",
-      "items": [],
-      "title": "SQL"
-    },
-    {
-      "description": "",
       "items": [
         {
-          "node_type": "item",
-          "title": "Blockchain! Blockchain! Blockchain! - Build Your Own Blockchains in JavaScript from Zero (Scratch)",
-          "description": "by Gerald Bauer, Vienna.js, September 2017",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2025-07-22T17:30:21Z",
-            "owner": "geraldb",
-            "repo": "talks",
-            "stars": 222
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Blockchain! Blockchain! Blockchain! - Build Your Own Blockchains in Ruby from Zero (Scratch)",
-          "description": "by Gerald Bauer, Vienna.rb, Dezember 2017",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2025-07-22T17:30:21Z",
-            "owner": "geraldb",
-            "repo": "talks",
-            "stars": 222
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Blockchain vs (Hyper) Ledger -- Inside (Hyper) Ledger Lite - Add Transactions One Block at a Time and Balance the Accounts (Books)",
-          "description": "by Gerald Bauer, Hyperledger Vienna, March 2018",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2025-07-22T17:30:21Z",
-            "owner": "geraldb",
-            "repo": "talks",
-            "stars": 222
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Blockchain! Blockchain! Blockchain! - Build Your Own Blockchains in Go from Zero (Scratch)",
-          "description": "by Gerald Bauer, Vienna.go, April 2018",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2025-07-22T17:30:21Z",
-            "owner": "geraldb",
-            "repo": "talks",
-            "stars": 222
-          }
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Blockchain! Blockchain! Blockchain! - Build Your Own Blockchains in JavaScript from Zero (Scratch)",
+              "description": "by Gerald Bauer, Vienna.js, September 2017",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 22786727,
+                "language": null,
+                "last_commit": "2025-07-22T17:30:21Z",
+                "owner": "geraldb",
+                "repo": "talks",
+                "stars": 222
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Blockchain! Blockchain! Blockchain! - Build Your Own Blockchains in Ruby from Zero (Scratch)",
+              "description": "by Gerald Bauer, Vienna.rb, Dezember 2017",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 22786727,
+                "language": null,
+                "last_commit": "2025-07-22T17:30:21Z",
+                "owner": "geraldb",
+                "repo": "talks",
+                "stars": 222
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Blockchain vs (Hyper) Ledger -- Inside (Hyper) Ledger Lite - Add Transactions One Block at a Time and Balance the Accounts (Books)",
+              "description": "by Gerald Bauer, Hyperledger Vienna, March 2018",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 22786727,
+                "language": null,
+                "last_commit": "2025-07-22T17:30:21Z",
+                "owner": "geraldb",
+                "repo": "talks",
+                "stars": 222
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Blockchain! Blockchain! Blockchain! - Build Your Own Blockchains in Go from Zero (Scratch)",
+              "description": "by Gerald Bauer, Vienna.go, April 2018",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 22786727,
+                "language": null,
+                "last_commit": "2025-07-22T17:30:21Z",
+                "owner": "geraldb",
+                "repo": "talks",
+                "stars": 222
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Talk Notes"
         }
       ],
-      "title": "Talk Notes"
-    },
-    {
-      "description": "See Build your own Blockchain / Cryptocurrency @ Build your own (insert technology here)",
-      "items": [],
-      "title": "More"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Samples"
-    },
-    {
-      "description": "(Source: )\nwill pretty print (pp) something like:\nComments from the reddit ruby posting:\nWhat about Proof of Work / Waste?\nLet's add a proof of work / waste to the blockchain. In the classic blockchain you have to compute a block hash that starts with leading zeros (). The more leading zeros the harder (more difficult) to compute. Let's keep it easy to compute with two leading zeros (), that is, 16^2 = 256 possibilites (^1,2). Three leading zeros () would be 16^3 = 4_096 possibilites and four zeros () would be 16^4 = 65_536 and so on.\n(^1): 16 possibilties because it's a hex or hexadecimal or base 16 number, that is, (10) (11) (12) (13) (14) (15).\n(^2): A random secure hash algorithm needs on average 256 tries (might be lets say 305 tries, for example, because it's NOT a perfect statistic distribution of possibilities).\nExample:\n(Source: )\nLet's rerun the sample with the proof of work machinery added. Now the sample will pretty print (pp) something like:\nSee the difference? All hashes now start with leading zeros () and the nonce is the random \"lucky number\" that makes it happen. That's the magic behind the proof of work.",
-      "items": [],
-      "title": "Blockchain from Scratch - Ruby Version"
-    },
-    {
-      "description": "(Source: )\nwill log something like:",
-      "items": [],
-      "title": "Blockchain from Scratch - JavaScript Version"
-    },
-    {
-      "description": "Reflections on the Blockchain by Rufus Pollock (Open Knowledge Foundation), July 2016 -- The DAO: Code is not Law – and It’s Dangerous to Think So ++ The Internet changed the world - surely the Blockchain will too? ++ Gold-rush or Internet-rush? ++ Governance Matters in Bitcoin ++ The Myth of a Costless, Ownerless Network ++ Lessons from History\nOn the Dangers of a Blockchain Monoculture by Tony Arcieri, January 2016 -- The Bitcoin blockchain: the world's worst database ++ Next-generation protocols ++ Decentralized ledger protocols ++ Bitcoin-NG ++ Blockchain! Blockchain! Blockchain! ++ The great decentralized database in the sky\nI Don’t Believe in Blockchain by Tim Bray, May 2017\nMinimum Viable Blockchain by Ilya Grigorik, May 2014 -- Securing transactions with triple-entry bookkeeping ++ Securing transactions with PKI ++ Balance = Σ(receipts) ++ Multi-party transfers & verification ++ Double-spending and distributed consensus - Requirements for a distributed consensus network; Protecting the network from Sybil attacks; Proof-of-work as a participation requirement ++ Building the minimum viable blockchain - Adding \"blocks\" & transaction fee incentives; Racing to claim the transaction fees; Resolving chain conflicts; Blocks are never final ++ Properties of the (minimum viable) blockchain\nBlockchains by analogies and applications: How blockchain compares to Git, Raft, and other technologies. by Kieren James-Lubin, January 2016 -- Blockchains are databases ++ Understanding transactions ++ Persistent, replicated databases (related technology: Git) ++ Peer-to-peer networks (related technology: BitTorrent) ++ Distributed consensus (related technology: distributed databases, Raft) ++ Minting new coins (mining) ++ Embedded identities (related technology: TLS) ++ Smart contracts: Like SQL expressions & triggers ++ What can we really do with blockchains?",
-      "items": [],
-      "title": "Blockchain Articles"
-    },
-    {
-      "description": "Attack of the 50 Foot Blockchain: Bitcoin, Blockchain, Ethereum & Smart Contracts by David Gerard, London, 2017 -- What is a bitcoin? ++ The Bitcoin ideology ++ The incredible promises of Bitcoin! ++ Early Bitcoin: the rise to the first bubble ++ How Bitcoin mining centralised ++ Who is Satoshi Nakamoto? ++ Spending bitcoins in 2017 ++ Trading bitcoins in 2017: the second crypto bubble ++ Altcoins ++ Smart contracts, stupid humans ++ Business bafflegab, but on the Blockchain ++ Case study: Why you can’t put the music industry on a blockchain\nMastering Bitcoin - Programming the Open Blockchain 2nd Edition, by Andreas M. Antonopoulos, 2017 - FREE (Online Source Version) -- What Is Bitcoin? ++ How Bitcoin Works ++ Bitcoin Core: The Reference Implementation ++ Keys, Addresses ++ Wallets ++ Transactions ++ Advanced Transactions and Scripting ++ The Bitcoin Network ++ The Blockchain ++ Mining and Consensus ++ Bitcoin Security ++ Blockchain Applications\n\nBEWARE: Bitcoin is a gigantic ponzi scheme¹. To the moon!? The new gold standard!? Do NOT \"invest\" trying to get-rich-quick HODLing. Why not? The bitcoin code is archaic and out-of-date. Burn, baby, burn! Proof-of-work / waste is a global energy environmental disaster using 300 kW/h per bitcoin transaction (!) that's about 179 kilograms of CO₂ emissions². Programmable money (or the internet of value) for all future generations with (bitcoin) script without loops and jumps (gotos) and all \"stateless\"!? LOL.\n¹: (Source: Best of Bitcoin Maximalist - Scammers, Morons, Clowns, Shills & BagHODLers - Inside The New New Crypto Ponzi Economics)\n²: Assuming let's say 0.596 kilograms of CO₂ per kW/h (that's the energy efficiency in Germany) that's about 179 kilograms of CO₂ per bitcoin transaction (300 kW/h × 0.596 kg). For more insights see the Bitcoin Energy Consumption Index.\nProgramming Bitcoin from Scratch by Jimmy Song, 2019 - FREE (Online Source Version) -- Chapter 6 - Script - How Script Works • Example Operations • Parsing the Script Fields • Combining the Script Fields • Standard Scripts • p2pk • Problems with p2pk • Solving the Problems with p2pkh • Scripts Can Be Arbitrarily Constructed • Conclusion ++ Chapter 8 - Pay-to-Script Hash - Bare Multisig • Coding OP_CHECKMULTISIG • Problems with Bare Multisig • Pay-to-Script-Hash (p2sh) • Coding p2sh • Conclusion ++ Chapter 13 - Segregated Witness - Pay-to-Witness-Pubkey-Hash (p2wpkh) • p2wpkh Transactions • p2sh-p2wpkh • Coding p2wpkh and p2sh-p2wpkh • Pay-to-Witness-Script-Hash (p2wsh) • p2sh-p2wsh • Coding p2wsh and p2sh-p2wsh • Other Improvements • Conclusion\nProgramming Bitcoin Script Transaction (Crypto) Contracts Step-by-Step ( Beta / Rough Draft ) by Gerald Bauer et al, 2019 - FREE (Online Version) -- Let's start with building your own bitcoin stack machine from zero / scratch and let's run your own bitcoin ops (operations)...\nProgramming Blockchains in Ruby from Scratch Step-by-Step Starting w/ Crypto Hashes... ( Beta / Rough Draft ) by Gerald Bauer et al, 2018 - FREE (Online Version) -- (Crypto) Hash ++ (Crypto) Block ++ (Crypto) Block with Proof-of-Work ++ Blockchain! Blockchain! Blockchain! ++ Blockchain Broken? ++ Timestamping ++ Mining, Mining, Mining - What's Your Hash Rate? ++ Bitcoin, Bitcoin, Bitcoin ++ (Crypto) Block with Transactions (Tx)\nMastering Ethereum - Building Contract Services and Decentralized Apps on the Blockchain - by Andreas M. Antonopoulos, Gavin Wood, 2018 - FREE (Online Source Version) What is Ethereum ++ Introduction ++ Ethereum Clients ++ Ethereum Testnets ++ Keys and Addresses ++ Wallets ++ Transactions ++ Contract Services ++ Tokens ++ Oracles ++ Accounting & Gas ++ EVM (Ethereum Virtual Machine) ++ Consensus ++ DevP2P (Peer-To-Peer) Protocol ++ Dev Tools and Frameworks ++ Decentralized Apps ++ Ethereum Standards (EIPs/ERCs)\nBuilding Decentralized Apps on the Ethereum Blockchain by Roberto Infante, 2018 - FREE chapter 1 -- Understanding decentralized applications ++ The Ethereum blockchain ++ Building contract services in (JavaScript-like) Solidity ++ Running contract services on the Ethereum blockchain ++ Developing Ethereum Decentralized apps with Truffle ++ Best design and security practice\nProgramming Crypto Blockchain Contracts Step-by-Step Book / Guide ( Beta / Rough Draft ) by Gerald Bauer et al, 2019 - FREE (Online Version) -- Let's Start with Ponzi & Pyramid Schemes. Run Your Own Lotteries, Gambling Casinos and more on the Blockchain World Computer...\nProgramming Cryptocurrencies and Blockchains in Ruby ( Beta / Rough Draft ) by Gerald Bauer et al, 2018 - FREE (Online Version) @ Yuki & Moto Press Bookshelf -- Digital $$$ Alchemy - What's a Blockchain? - How-To Turn Digital Bits Into $$$ or €€€? • Decentralize Payments. Decentralize Transactions. Decentralize Blockchains. • The Proof of the Pudding is ... The Bitcoin (BTC) Blockchain(s) ++ Building Blockchains from Scratch - A Blockchain in Ruby in 20 Lines! A Blockchain is a Data Structure • What about Proof-of-Work? What about Consensus? • Find the Lucky Number - Nonce == Number Used Once ++ Adding Transactions - The World's Worst Database - Bitcoin Blockchain Mining • Tulips on the Blockchain! Adding Transactions ++ Blockchain Lite - Basic Blocks • Proof-of-Work Blocks • Transactions ++ Merkle Tree - Build Your Own Crypto Hash Trees; Grow Your Own Money on Trees • What's a Merkle Tree? • Transactions ++ Central Bank - Run Your Own Federated Central Bank Nodes on the Blockchain Peer-to-Peer over HTTP • Inside Mining - Printing Cryptos, Cryptos, Cryptos on the Blockchain ++ Awesome Crypto ++ Case Studies - Dutch Gulden • Shilling • CryptoKitties (and CryptoCopycats)\nBlockchain for Dummies, IBM Limited Edition by Manav Gupta, 2017 - FREE (Digital Download w/ Email) -- Grasping Blockchain Fundamentals ++ Taking a Look at How Blockchain Works ++ Propelling Business with Blockchains ++ Blockchain in Action: Use Cases ++ Hyperledger, a Linux Foundation Project ++ Ten Steps to Your First Blockchain application\nGet Rich Quick \"Business Blockchain\" Bible - The Secrets of Free Easy Money, 2018 - FREE -- Step 1: Sell hot air. How? ++ Step 2: Pump up your tokens. How? ++ Step 3: Revolutionize the World. How?\nBest of Bitcoin Maximalist - Scammers, Morons, Clowns, Shills & BagHODLers - Inside The New New Crypto Ponzi Economics by Trolly McTrollface, et al, 2018 - FREE\nCrypto Facts - Decentralize Payments - Efficient, Low Cost, Fair, Clean - True or False? by Nouriel Roubini, David Gerard, et al, 2018 - FREE\nCrypto is the Mother of All Scams and (Now Busted) Bubbles - While Blockchain Is The Most Over-Hyped Technology Ever, No Better than a Spreadsheet/Database by Nouriel Roubini, 2018 - FREE\nIslandCoin White Paper - A Pen and Paper Cash System - How to Run a Blockchain on a Deserted Island by Tal Kol -- Motivation ++ Consensus ++ Transaction and Block Specification - Transaction format • Block format • Genesis block ++ References",
-      "items": [],
-      "title": "Blockchain Books"
-    },
-    {
-      "description": "Ruby • JavaScript",
-      "items": [],
-      "title": "Blockchain (Lite) Crypto Hash Libraries"
-    },
-    {
-      "description": "blockchain.lite (github: openblockchains/blockchain.lite.rb, gem: blockchain-lite) - build your own blockchain with crypto hashes - revolutionize the world with blockchains, blockchains, blockchains one block at a time\nwill pretty print (pp) something like:",
-      "items": [],
-      "title": "Ruby"
-    },
-    {
-      "description": "blockchain.lite (github: openblockchains/blockchain.lite.js, npm: blockchain-lite) - build your own blockchain with crypto hashes - revolutionize the world with blockchains, blockchains, blockchains one block at a time\nwill log something like:",
-      "items": [],
-      "title": "JavaScript"
-    },
-    {
-      "description": "Everything is local. Distributed is the new centralized.\n",
-      "items": [],
-      "title": "Git, Git, Git - The Stupid Content Tracker with Crypto Hashes"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Quotes - Blockchains and Git"
-    },
-    {
-      "description": "Learn Enough Git to Be Dangerous by Michael Hartl - FREE (Online Version) -- Getting started ++ Backing up and sharing ++ Intermediate workflow ++ Collaborating ++ Conclusion ++ Advanced setup\nPro Git by Scott Chacon and Ben Straub, 2nd Edition, 2014 - FREE (Online Version) -- Getting Started ++ Git Basics ++ Git Branching ++ Git on the Server ++ Distributed Git ++ GitHub ++ Git Tools ++ Customizing Git ++ Git and Other Systems ++ Git Internals ++ A1: Git in Other Environments ++ A2: Embedding Git in your Applications ++ A3: Git Commands",
-      "items": [],
-      "title": "Books"
-    },
-    {
-      "description": "football.db - open public domain football datasets (incl. clubs, national teams, leagues, match schedules, etc.)\nworld.db - open public domain world (country) datasets\nbeer.db - open public domain beer & brewery datasets",
-      "items": [],
-      "title": "Open Distributed Databases on Git"
-    },
-    {
-      "description": "Shilling (or Schilling) - Shilling on the Blockchain! - Rock-Solid Alpine Dollar from Austria\nTulips - Tulips on the Blockchain! - Learn by Example from the Real World (Anno 1637) - Buy! Sell! Hold! Enjoy the Beauty of Admiral of Admirals, Semper Augustus, and More",
-      "items": [],
-      "title": "Open Distributed (Hyper) Ledger Books on Git"
-    },
-    {
-      "description": "A period in the Dutch Golden Age during which contract prices for bulbs of the recently introduced tulip reached extraordinarily high levels and then dramatically collapsed in February 1637.\n",
-      "items": [],
-      "title": "Classic Tulip Mania"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Quotes - Blockchains are the next Internets / Tulips"
-    },
-    {
-      "description": "Tulipomania: The Story of the World's Most Coveted Flower & the Extraordinary Passions It Aroused by Mike Dash, 2001 -- A Mania for Tulips ++ The Valley of Tien Shan ++ Within the Abode of Bliss ++ Stranger from the East ++ Clusius ++ Leiden ++ An Adornment to the Cleavage ++ The Tulip in the Mirror ++ Florists ++ Boom ++ At the Sign of the Golden Grape ++ The Orphans of Wouter Winkel ++ Bust ++ Goddess of Whores ++ At the Court of the Tulip King ++ Late Flowering\nTulipmania: Money, Honor, and Knowledge in the Dutch Golden Age by Anne Goldgar, 2007 -- Something Strange ++ Art & Flowers ++ Bloemisten ++ Grieving Money ++ Bad Faith ++ Cabbage Fever ++ Glossary ++ A Note on Money\n",
-      "items": [],
-      "title": "Books"
-    },
-    {
-      "description": "Collectible. Breedable. Adorable.\nCollect and breed digital cats. Start meow. Buy! Sell! Hold!\nLearn more @ cryptokitties.co\n\nLatest (and Greatest) Investment Opportunity!\n",
-      "items": [],
-      "title": "Breaking News: CryptoKitties (Yes, Cute Little Cartoon Cats) on the Blockchain!"
-    },
-    {
-      "description": "A collection about Awesome CryptoKitties (Yes, Cute Little Cartoon Cats) on the Blockchain! and CryptoCopycats - digital collectibles secured on a distributed public databases w/ crypto hashes. Are CryptoPuppies the new CryptoKitties? Learn by Example from the Real World (Anno 2017) - Buy! Sell! Hodl!\nMore @ cryptocopycats/awesome-cryptokitties\n",
-      "items": [],
-      "title": "Awesome CryptoKitties (and CryptoCopycats)"
+      "title": "Do-It-Yourself (DIY) - Build Your Own Blockchain"
     },
     {
       "description": "A curated list of awesome lists.",
@@ -222,11 +83,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 21737465,
             "language": null,
-            "last_commit": "2026-06-30T18:21:16Z",
+            "last_commit": "2026-08-18T13:28:50Z",
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 497174
+            "stars": 497613
           }
         },
         {
@@ -236,6 +98,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 101078039,
             "language": null,
             "last_commit": "2023-07-20T07:10:14Z",
             "owner": "Zheaoli",
@@ -250,11 +113,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 41074904,
             "language": null,
             "last_commit": "2026-07-07T07:00:27Z",
             "owner": "dictcp",
             "repo": "awesome-git",
-            "stars": 2927
+            "stars": 2928
           }
         },
         {
@@ -264,6 +128,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 79223400,
             "language": null,
             "last_commit": "2024-04-02T13:22:26Z",
             "owner": "imbaniac",
@@ -278,6 +143,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 36278697,
             "language": null,
             "last_commit": "2023-02-10T16:15:01Z",
             "owner": "igorbarinov",
@@ -292,6 +158,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 113694472,
             "language": "Ruby",
             "last_commit": "2021-04-21T12:33:19Z",
             "owner": "cryptocopycats",
@@ -306,30 +173,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 58314859,
             "language": null,
             "last_commit": "2025-11-02T11:49:48Z",
             "owner": "oiwn",
             "repo": "awesome-fhe-cryptography",
             "stars": 56
           }
-        },
-        {
-          "node_type": "item",
-          "title": "Blockchain Stuff",
-          "description": "- a curated list of blockchain and general cryptocurrency resources",
-          "children": []
         }
       ],
       "title": "Awesome Awesomeness"
-    },
-    {
-      "description": "License\n\nThe awesome list is dedicated to the public domain. Use it as you please with no restrictions whatsoever.",
-      "items": [],
-      "title": "Meta"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T10:42:18.336Z",
+    "last_updated": "2026-08-19T10:42:14.994Z",
     "original_repository": "openblockchains/awesome-blockchains",
     "original_repository_sha": "ffc699a7542a8536c44d34f923368d0f09ad1ff4",
     "enhanced_repository": "enhansome/enhansome-blockchains",

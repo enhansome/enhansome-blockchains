@@ -172,7 +172,7 @@ The "classic" Satoshi-blockchain is like a git repo with a single master branch 
 by Eric Munsing, March 2017, [(Source)](https://github.com/emunsing/tutorials/blob/master/BuildYourOwnBlockchain.ipynb) ⭐ 102 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2017-08-30
 
 [**Learn Blockchains by Building One (in Python)**](https://hackernoon.com/learn-blockchains-by-building-one-117428612f46)
-by Daniel van Flymen, September 2017, [(Source)](https://github.com/dvf/blockchain) ⭐ 8,046 | 🐛 133 | 🌐 C# | 📅 2024-07-21 -- The fastest way to learn how Blockchains work is to build one
+by Daniel van Flymen, September 2017, [(Source)](https://github.com/dvf/blockchain) ⭐ 8,045 | 🐛 133 | 🌐 C# | 📅 2024-07-21 -- The fastest way to learn how Blockchains work is to build one
 
 **Build Your Own Blockchain (in Python 3) Series** by Jack Schultz, [(Source)](https://github.com/jackschultz/jbc) ⭐ 184 | 🐛 7 | 🌐 Python | 📅 2024-12-31
 
@@ -213,7 +213,7 @@ by Xavier Decuyper, July 2017
 
 ### TypeScript
 
-[**Naivecoin: a tutorial for building a cryptocurrency**](https://lhartikk.github.io) by Lauri Hartikka, [(Source)](https://github.com/lhartikk/naivecoin) ⭐ 563 | 🐛 21 | 🌐 TypeScript | 📅 2022-03-31
+[**Naivecoin: a tutorial for building a cryptocurrency**](https://lhartikk.github.io) by Lauri Hartikka, [(Source)](https://github.com/lhartikk/naivecoin) ⭐ 564 | 🐛 21 | 🌐 TypeScript | 📅 2022-03-31
 
 ### Java
 
@@ -238,7 +238,7 @@ by Xavier Decuyper, July 2017
 
 ### Go
 
-**Building Blockchain in Go Series** by Ivan Kuznetsov, [(Source)](https://github.com/Jeiwan/blockchain_go) ⭐ 4,373 | 🐛 53 | 🌐 Go | 📅 2024-06-20
+**Building Blockchain in Go Series** by Ivan Kuznetsov, [(Source)](https://github.com/Jeiwan/blockchain_go) ⭐ 4,374 | 🐛 53 | 🌐 Go | 📅 2024-06-20
 
 * [**Part 1: Basic Prototype**](https://jeiwan.cc/posts/building-blockchain-in-go-part-1/), August 2017
 * [**Part 2: Proof-of-Work**](https://jeiwan.cc/posts/building-blockchain-in-go-part-2/), August 2017
@@ -272,7 +272,7 @@ Blockchain Series in Go by by Coral Health [(Source)](https://github.com/mycoral
 
 ### More
 
-See [**Build your own Blockchain / Cryptocurrency**](https://github.com/danistefanovic/build-your-own-x#build-your-own-blockchain--cryptocurrency) ⭐ 540,687 | 🐛 633 | 🌐 Markdown | 📅 2026-07-14 @ Build your own (insert technology here)
+See [**Build your own Blockchain / Cryptocurrency**](https://github.com/danistefanovic/build-your-own-x#build-your-own-blockchain--cryptocurrency) ⭐ 541,100 | 🐛 634 | 🌐 Markdown | 📅 2026-07-14 @ Build your own (insert technology here)
 
 ### Samples
 
@@ -564,7 +564,7 @@ Smart contracts, stupid humans ++
 Business bafflegab, but on the Blockchain ++
 Case study: Why you can’t put the music industry on a blockchain*
 
-[**Mastering Bitcoin - Programming the Open Blockchain**](https://github.com/bitcoinbook/bitcoinbook/blob/second_edition/ch09.asciidoc) ⭐ 25,289 | 🐛 191 | 🌐 HTML | 📅 2024-12-26 2nd Edition,
+[**Mastering Bitcoin - Programming the Open Blockchain**](https://github.com/bitcoinbook/bitcoinbook/blob/second_edition/ch09.asciidoc) ⭐ 25,290 | 🐛 191 | 🌐 HTML | 📅 2024-12-26 2nd Edition,
 by Andreas M. Antonopoulos, 2017 - FREE (Online Source Version) --
 *What Is Bitcoin? ++
 How Bitcoin Works ++
@@ -602,9 +602,9 @@ about 179 kilograms of CO₂ per bitcoin transaction (300 kW/h × 0.596 kg). For
 
 ***
 
-[**Programming Bitcoin from Scratch**](https://github.com/jimmysong/programmingbitcoin) ⭐ 1,883 | 🐛 120 | 🌐 Python | 📅 2024-05-20 by Jimmy Song, 2019 - FREE (Online Source Version) -- *[Chapter 6 - Script](https://github.com/jimmysong/programmingbitcoin/blob/master/ch06.asciidoc) ⭐ 1,883 | 🐛 120 | 🌐 Python | 📅 2024-05-20 - How Script Works • Example Operations • Parsing the Script Fields • Combining the Script Fields • Standard Scripts • p2pk • Problems with p2pk • Solving the Problems with p2pkh • Scripts Can Be Arbitrarily Constructed • Conclusion ++*
-*[Chapter 8 - Pay-to-Script Hash](https://github.com/jimmysong/programmingbitcoin/blob/master/ch08.asciidoc) ⭐ 1,883 | 🐛 120 | 🌐 Python | 📅 2024-05-20 - Bare Multisig • Coding OP\_CHECKMULTISIG • Problems with Bare Multisig • Pay-to-Script-Hash (p2sh) • Coding p2sh • Conclusion ++*
-*[Chapter 13 - Segregated Witness](https://github.com/jimmysong/programmingbitcoin/blob/master/ch13.asciidoc) ⭐ 1,883 | 🐛 120 | 🌐 Python | 📅 2024-05-20 - Pay-to-Witness-Pubkey-Hash (p2wpkh) • p2wpkh Transactions • p2sh-p2wpkh • Coding p2wpkh and p2sh-p2wpkh • Pay-to-Witness-Script-Hash (p2wsh) • p2sh-p2wsh • Coding p2wsh and p2sh-p2wsh • Other Improvements • Conclusion*
+[**Programming Bitcoin from Scratch**](https://github.com/jimmysong/programmingbitcoin) ⭐ 1,884 | 🐛 120 | 🌐 Python | 📅 2024-05-20 by Jimmy Song, 2019 - FREE (Online Source Version) -- *[Chapter 6 - Script](https://github.com/jimmysong/programmingbitcoin/blob/master/ch06.asciidoc) ⭐ 1,884 | 🐛 120 | 🌐 Python | 📅 2024-05-20 - How Script Works • Example Operations • Parsing the Script Fields • Combining the Script Fields • Standard Scripts • p2pk • Problems with p2pk • Solving the Problems with p2pkh • Scripts Can Be Arbitrarily Constructed • Conclusion ++*
+*[Chapter 8 - Pay-to-Script Hash](https://github.com/jimmysong/programmingbitcoin/blob/master/ch08.asciidoc) ⭐ 1,884 | 🐛 120 | 🌐 Python | 📅 2024-05-20 - Bare Multisig • Coding OP\_CHECKMULTISIG • Problems with Bare Multisig • Pay-to-Script-Hash (p2sh) • Coding p2sh • Conclusion ++*
+*[Chapter 13 - Segregated Witness](https://github.com/jimmysong/programmingbitcoin/blob/master/ch13.asciidoc) ⭐ 1,884 | 🐛 120 | 🌐 Python | 📅 2024-05-20 - Pay-to-Witness-Pubkey-Hash (p2wpkh) • p2wpkh Transactions • p2sh-p2wpkh • Coding p2wpkh and p2sh-p2wpkh • Pay-to-Witness-Script-Hash (p2wsh) • p2sh-p2wsh • Coding p2wsh and p2sh-p2wsh • Other Improvements • Conclusion*
 
 [**Programming Bitcoin Script Transaction (Crypto) Contracts Step-by-Step ( Beta / Rough Draft )**](https://github.com/openblockchains/programming-bitcoin-script) ⭐ 78 | 🐛 0 | 🌐 Ruby | 📅 2021-01-02
 by Gerald Bauer et al, 2019 - FREE (Online Version) --
@@ -622,7 +622,7 @@ Mining, Mining, Mining - What's Your Hash Rate? ++
 Bitcoin, Bitcoin, Bitcoin ++
 (Crypto) Block with Transactions (Tx)*
 
-[**Mastering Ethereum - Building Contract Services and Decentralized Apps on the Blockchain**](https://github.com/ethereumbook/ethereumbook) ⭐ 21,516 | 🐛 1 | 📅 2026-05-13 -
+[**Mastering Ethereum - Building Contract Services and Decentralized Apps on the Blockchain**](https://github.com/ethereumbook/ethereumbook) ⭐ 21,517 | 🐛 1 | 📅 2026-05-13 -
 by Andreas M. Antonopoulos, Gavin Wood, 2018 - FREE (Online Source Version)
 *What is Ethereum ++
 Introduction ++
@@ -995,9 +995,9 @@ More @ [cryptocopycats/awesome-cryptokitties](https://github.com/cryptocopycats/
 
 *A curated list of awesome lists.*
 
-* [**Awesome**](https://github.com/sindresorhus/awesome) ⭐ 497,174 | 🐛 104 | 📅 2026-06-30 by Sindre Sorhus et al -- a curated list of awesome lists
+* [**Awesome**](https://github.com/sindresorhus/awesome) ⭐ 497,613 | 🐛 102 | 📅 2026-08-18 by Sindre Sorhus et al -- a curated list of awesome lists
 * [**Awesome Coins**](https://github.com/kennethreitz/awesome-coins) ⭐ 4,088 | 🐛 23 | 📅 2023-07-20 by Kenneth Reitz et al -- a guide to crypto-currencies and their algos
-* [**Awesome Git**](https://github.com/dictcp/awesome-git) ⭐ 2,927 | 🐛 66 | 📅 2026-07-07 by Dick Tang et al -- a curated list of amazingly awesome Git tools, resources and shiny things
+* [**Awesome Git**](https://github.com/dictcp/awesome-git) ⭐ 2,928 | 🐛 67 | 📅 2026-07-07 by Dick Tang et al -- a curated list of amazingly awesome Git tools, resources and shiny things
 * [**Awesome Blockchain**](https://github.com/imbaniac/awesome-blockchain) ⭐ 890 | 🐛 23 | 📅 2024-04-02 by Tim Reznich et al -- a curated list of blockchain services and exchanges
 * [**Awesome Blockchain**](https://github.com/igorbarinov/awesome-blockchain) ⭐ 634 | 🐛 8 | 📅 2023-02-10 by Igor Barinov et al -- a curated list of the bitcoin blockchain services
 * [**Awesome CryptoKitties (and CryptoCopycats)**](https://github.com/openblockchains/awesome-cryptokitties) ⭐ 522 | 🐛 0 | 🌐 Ruby | 📅 2021-04-21 by Gerald Bauer et al -- a curated list about the awesome crypto kitties and copycats
@@ -1015,4 +1015,4 @@ The awesome list is dedicated to the public domain. Use it as you please with no
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-18._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-19._
