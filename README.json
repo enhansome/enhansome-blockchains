@@ -331,7 +331,7 @@
             "last_commit": "2024-12-26T18:18:32Z",
             "owner": "bitcoinbook",
             "repo": "bitcoinbook",
-            "stars": 25293
+            "stars": 25292
           }
         },
         {
@@ -530,7 +530,7 @@
             "last_commit": "2026-08-21T12:39:13Z",
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 499692
+            "stars": 499760
           }
         },
         {
@@ -628,7 +628,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T05:50:06.386Z",
+    "last_updated": "2026-08-25T10:46:11.263Z",
     "original_repository": "openblockchains/awesome-blockchains",
     "original_repository_id": 103458675,
     "original_repository_sha": "ffc699a7542a8536c44d34f923368d0f09ad1ff4",
