@@ -391,7 +391,7 @@
             "last_commit": "2026-05-13T14:04:25Z",
             "owner": "ethereumbook",
             "repo": "ethereumbook",
-            "stars": 21519
+            "stars": 21518
           }
         },
         {
@@ -530,7 +530,7 @@
             "last_commit": "2026-08-21T12:39:13Z",
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 499760
+            "stars": 500055
           }
         },
         {
@@ -545,7 +545,7 @@
             "last_commit": "2023-07-20T07:10:14Z",
             "owner": "Zheaoli",
             "repo": "awesome-coins",
-            "stars": 4096
+            "stars": 4095
           }
         },
         {
@@ -628,7 +628,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T10:46:11.263Z",
+    "last_updated": "2026-08-26T10:48:43.556Z",
     "original_repository": "openblockchains/awesome-blockchains",
     "original_repository_id": 103458675,
     "original_repository_sha": "ffc699a7542a8536c44d34f923368d0f09ad1ff4",
