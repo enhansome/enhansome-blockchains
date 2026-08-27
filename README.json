@@ -331,7 +331,7 @@
             "last_commit": "2024-12-26T18:18:32Z",
             "owner": "bitcoinbook",
             "repo": "bitcoinbook",
-            "stars": 25295
+            "stars": 25296
           }
         },
         {
@@ -391,7 +391,7 @@
             "last_commit": "2026-05-13T14:04:25Z",
             "owner": "ethereumbook",
             "repo": "ethereumbook",
-            "stars": 21517
+            "stars": 21518
           }
         },
         {
@@ -530,7 +530,7 @@
             "last_commit": "2026-08-21T12:39:13Z",
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 500361
+            "stars": 500492
           }
         },
         {
@@ -628,7 +628,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:27:09.902Z",
+    "last_updated": "2026-08-27T20:21:50.107Z",
     "original_repository_info": {
       "archived": false,
       "id": 103458675,
