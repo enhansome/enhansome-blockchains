@@ -12,12 +12,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Tutorials on optimization and coding skills",
+                "homepage": null,
                 "id": 85254212,
                 "language": "Jupyter Notebook",
+                "license": null,
                 "last_commit": "2017-08-30T16:27:40Z",
+                "open_issues": 1,
                 "owner": "emunsing",
                 "repo": "tutorials",
-                "stars": 102
+                "stars": 102,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:10:11.969Z"
             },
@@ -28,12 +33,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Jack's Blockchain -- Simple blockchain to learn and talk about how blockchains work.",
+                "homepage": null,
                 "id": 107161623,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2024-12-31T14:12:39Z",
+                "open_issues": 7,
                 "owner": "jackschultz",
                 "repo": "jbc",
-                "stars": 184
+                "stars": 184,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:10:11.969Z"
             },
@@ -44,12 +54,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Source Code for my blog post: A Practical Introduction to Blockchain with Python",
+                "homepage": null,
                 "id": 121321348,
                 "language": "HTML",
+                "license": "NOASSERTION",
                 "last_commit": "2024-06-24T04:56:31Z",
+                "open_issues": 8,
                 "owner": "adilmoujahid",
                 "repo": "blockchain-python-tutorial",
-                "stars": 642
+                "stars": 642,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:10:11.969Z"
             }
@@ -67,12 +82,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 134031252,
                 "language": "Crystal",
+                "license": "MIT",
                 "last_commit": "2018-11-13T02:15:19Z",
+                "open_issues": 0,
                 "owner": "bradford-hamilton",
                 "repo": "crystal-blockchain",
-                "stars": 21
+                "stars": 21,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:10:11.969Z"
             }
@@ -90,12 +110,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Build your own blockchain!",
+                "homepage": "https://blockchain.nambrot.com",
                 "id": 110475327,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2022-03-17T15:41:17Z",
+                "open_issues": 2,
                 "owner": "nambrot",
                 "repo": "blockchain-in-js",
-                "stars": 1131
+                "stars": 1131,
+                "topics": [
+                  "bitcoin",
+                  "blockchain",
+                  "javascript"
+                ]
               },
               "first_seen": "2026-08-28T21:10:11.969Z"
             }
@@ -113,12 +142,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A tutorial for building a cryptocurrency",
+                "homepage": "https://lhartikk.github.io/",
                 "id": 115544331,
                 "language": "TypeScript",
+                "license": "Apache-2.0",
                 "last_commit": "2022-03-31T15:40:59Z",
+                "open_issues": 21,
                 "owner": "lhartikk",
                 "repo": "naivecoin",
-                "stars": 564
+                "stars": 564,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:10:11.969Z"
             }
@@ -136,12 +170,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Simple Java Blockchain for educational purposes. ",
+                "homepage": null,
                 "id": 114496561,
                 "language": "Java",
+                "license": "MIT",
                 "last_commit": "2021-06-28T16:04:28Z",
+                "open_issues": 2,
                 "owner": "CryptoKass",
                 "repo": "NoobChain-Tutorial-Part-1",
-                "stars": 332
+                "stars": 332,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:10:11.969Z"
             }
@@ -159,12 +198,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Blockchain implementation in Kotlin",
+                "homepage": null,
                 "id": 139800941,
                 "language": "Kotlin",
+                "license": null,
                 "last_commit": "2018-07-15T06:06:58Z",
+                "open_issues": 0,
                 "owner": "VasilyFomin",
                 "repo": "kCoin",
-                "stars": 42
+                "stars": 42,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:10:11.969Z"
             }
@@ -182,12 +226,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Code samples for our blog",
+                "homepage": null,
                 "id": 112117325,
                 "language": "PLpgSQL",
+                "license": null,
                 "last_commit": "2018-01-31T04:21:23Z",
+                "open_issues": 0,
                 "owner": "benjaminsky",
                 "repo": "BlockchainMessenger",
-                "stars": 7
+                "stars": 7,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:10:11.969Z"
             }
@@ -205,12 +254,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A basic blockchain implementation in Rust for educational purposes only",
+                "homepage": "https://www.youtube.com/playlist?list=PLwnSaD6BDfXL0RiKT_5nOIdxTxZWpPtAv",
                 "id": 165966306,
                 "language": "Rust",
+                "license": null,
                 "last_commit": "2021-03-05T21:48:27Z",
+                "open_issues": 3,
                 "owner": "GeekLaunch",
                 "repo": "blockchain-rust",
-                "stars": 198
+                "stars": 198,
+                "topics": [
+                  "blockchain",
+                  "cryptocurrency",
+                  "rust"
+                ]
               },
               "first_seen": "2026-08-28T21:10:11.969Z"
             }
@@ -228,12 +286,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A simplified blockchain implementation in Golang",
+                "homepage": null,
                 "id": 100349127,
                 "language": "Go",
+                "license": null,
                 "last_commit": "2024-06-20T18:03:44Z",
+                "open_issues": 53,
                 "owner": "Jeiwan",
                 "repo": "blockchain_go",
-                "stars": 4375
+                "stars": 4375,
+                "topics": [
+                  "bitcoin",
+                  "blockchain",
+                  "cryptocurrency",
+                  "golang"
+                ]
               },
               "first_seen": "2026-08-28T21:10:11.969Z"
             },
@@ -244,12 +312,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Write and publish your own blockchain in less than 200 lines of Go",
+                "homepage": null,
                 "id": 119325339,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2021-10-04T14:22:39Z",
+                "open_issues": 3,
                 "owner": "nosequeldeebee",
                 "repo": "blockchain-tutorial",
-                "stars": 1601
+                "stars": 1601,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:10:11.969Z"
             }
@@ -267,12 +340,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "talks, talks, talks  (sources in Markdown)",
+                "homepage": null,
                 "id": 22786727,
                 "language": null,
+                "license": "CC0-1.0",
                 "last_commit": "2025-07-22T17:30:21Z",
+                "open_issues": 1,
                 "owner": "geraldb",
                 "repo": "talks",
-                "stars": 222
+                "stars": 222,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:10:11.969Z"
             },
@@ -283,12 +361,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "talks, talks, talks  (sources in Markdown)",
+                "homepage": null,
                 "id": 22786727,
                 "language": null,
+                "license": "CC0-1.0",
                 "last_commit": "2025-07-22T17:30:21Z",
+                "open_issues": 1,
                 "owner": "geraldb",
                 "repo": "talks",
-                "stars": 222
+                "stars": 222,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:10:11.969Z"
             },
@@ -299,12 +382,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "talks, talks, talks  (sources in Markdown)",
+                "homepage": null,
                 "id": 22786727,
                 "language": null,
+                "license": "CC0-1.0",
                 "last_commit": "2025-07-22T17:30:21Z",
+                "open_issues": 1,
                 "owner": "geraldb",
                 "repo": "talks",
-                "stars": 222
+                "stars": 222,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:10:11.969Z"
             },
@@ -315,12 +403,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "talks, talks, talks  (sources in Markdown)",
+                "homepage": null,
                 "id": 22786727,
                 "language": null,
+                "license": "CC0-1.0",
                 "last_commit": "2025-07-22T17:30:21Z",
+                "open_issues": 1,
                 "owner": "geraldb",
                 "repo": "talks",
-                "stars": 222
+                "stars": 222,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:10:11.969Z"
             }
@@ -342,12 +435,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Mastering Bitcoin 3rd Edition - Programming the Open Blockchain",
+            "homepage": "https://aantonop.com/books",
             "id": 12044132,
             "language": "HTML",
+            "license": "NOASSERTION",
             "last_commit": "2024-12-26T18:18:32Z",
+            "open_issues": 191,
             "owner": "bitcoinbook",
             "repo": "bitcoinbook",
-            "stars": 25296
+            "stars": 25297,
+            "topics": [
+              "bitcoin",
+              "bitcoin-api",
+              "blockchain",
+              "oreilly",
+              "oreilly-books"
+            ]
           },
           "first_seen": "2026-08-28T21:10:11.969Z"
         },
@@ -358,12 +462,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Repository for the book",
+            "homepage": null,
             "id": 114506572,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2024-05-20T22:31:48Z",
+            "open_issues": 120,
             "owner": "jimmysong",
             "repo": "programmingbitcoin",
-            "stars": 1882
+            "stars": 1882,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:10:11.969Z"
         },
@@ -374,12 +483,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Programming Bitcoin Script Transaction (Crypto) Contracts Step-by-Step - Let's start with building your own bitcoin stack machine from zero / scratch and let's run your own bitcoin ops (operations)...",
+            "homepage": null,
             "id": 40045432,
             "language": "Ruby",
+            "license": "CC0-1.0",
             "last_commit": "2021-01-02T10:47:50Z",
+            "open_issues": 0,
             "owner": "openblockchains",
             "repo": "programming-bitcoin-script",
-            "stars": 78
+            "stars": 78,
+            "topics": [
+              "bitcoin",
+              "bitcoin-script",
+              "ivy",
+              "opcodes",
+              "simplicity"
+            ]
           },
           "first_seen": "2026-08-28T21:10:11.969Z"
         },
@@ -390,12 +510,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Programming Blockchains Step-by-Step book / guide. Let's build blockchains from scratch (zero) step by step. Let's start with crypto hashes...",
+            "homepage": null,
             "id": 125402099,
             "language": "Ruby",
+            "license": "CC0-1.0",
             "last_commit": "2021-01-02T10:52:07Z",
+            "open_issues": 0,
             "owner": "openblockchains",
             "repo": "programming-blockchains",
-            "stars": 680
+            "stars": 680,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:10:11.969Z"
         },
@@ -406,12 +531,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Mastering Ethereum: 2nd Edition, by Andreas M. Antonopoulos, Gavin Wood, Carlo Parisi, Alessandro Mazza, Niccolò Pozzolini",
+            "homepage": "https://masteringethereum.xyz/",
             "id": 65392364,
             "language": null,
+            "license": null,
             "last_commit": "2026-05-13T14:04:25Z",
+            "open_issues": 2,
             "owner": "ethereumbook",
             "repo": "ethereumbook",
-            "stars": 21518
+            "stars": 21518,
+            "topics": [
+              "blockchain",
+              "book",
+              "dapp",
+              "devp2p",
+              "embark",
+              "ethereum",
+              "oreilly",
+              "smart-contracts",
+              "solidity",
+              "token",
+              "truffle-framework",
+              "web3js"
+            ]
           },
           "first_seen": "2026-08-28T21:10:11.969Z"
         },
@@ -422,12 +565,33 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Programming Crypto Blockchain Contracts Step-by-Step Book / Guide. Let's Start with Ponzi & Pyramid Schemes. Run Your Own Lotteries, Gambling Casinos and more on the Blockchain World Computer...",
+            "homepage": null,
             "id": 167611531,
             "language": "Ruby",
+            "license": "CC0-1.0",
             "last_commit": "2021-01-02T10:50:37Z",
+            "open_issues": 0,
             "owner": "s6ruby",
             "repo": "programming-crypto-contracts",
-            "stars": 92
+            "stars": 92,
+            "topics": [
+              "blockchain",
+              "casino",
+              "casinos",
+              "contracts",
+              "lotteries",
+              "ponzi",
+              "ponzi-scheme",
+              "ponzis",
+              "puzzle",
+              "pyramid",
+              "pyramid-scheme",
+              "pyramids",
+              "roulette",
+              "satoshi-dice",
+              "universum"
+            ]
           },
           "first_seen": "2026-08-28T21:10:11.969Z"
         },
@@ -438,12 +602,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Get Rich Quick \"Business Blockchain\" Bible - The Secrets of Free Easy Money - From Zero to Twenty Million in Three Weeks - 500 000+% Return on Investment (ROI) - Hot Air Token Sales - HODL! HODL! HODL! - To the Moon :chart_with_upwards_trend::chart_with_upwards_trend::chart_with_upwards_trend: - To the Beach (Book Edition) by Gerald Bauer et al",
+            "homepage": null,
             "id": 129755154,
             "language": null,
+            "license": null,
             "last_commit": "2018-05-10T17:44:01Z",
+            "open_issues": 0,
             "owner": "bitsblocks",
             "repo": "get-rich-quick-bible",
-            "stars": 18
+            "stars": 18,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:10:11.969Z"
         },
@@ -454,12 +623,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Best of Bitcoin Maximalist - Scammers, Morons, Clowns, Shills & BagHODLers - Inside The New New Crypto Ponzi Economics (Book Edition) by Trolly McTrollface, et al",
+            "homepage": null,
             "id": 133151891,
             "language": null,
+            "license": null,
             "last_commit": "2020-12-13T21:56:56Z",
+            "open_issues": 0,
             "owner": "bitsblocks",
             "repo": "bitcoin-maximalist",
-            "stars": 9
+            "stars": 9,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:10:11.969Z"
         },
@@ -470,12 +644,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Crypto Facts  - Decentralize Payments - Efficient, Low Cost, Fair, Clean - True or False? (Book Edition) by Nouriel Roubini, David Gerard, et al",
+            "homepage": null,
             "id": 133417211,
             "language": null,
+            "license": null,
             "last_commit": "2020-01-09T15:53:14Z",
+            "open_issues": 0,
             "owner": "bitsblocks",
             "repo": "crypto-facts",
-            "stars": 3
+            "stars": 3,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:10:11.969Z"
         },
@@ -486,12 +665,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Crypto is the Mother of All Scams and (Now Busted) Bubbles - While Blockchain Is The Most Over-Hyped Technology Ever, No Better than a Spreadsheet/Database (Book Edition) by Nouriel Roubini ",
+            "homepage": null,
             "id": 10319011,
             "language": null,
+            "license": null,
             "last_commit": "2020-01-10T15:23:10Z",
+            "open_issues": 0,
             "owner": "bitsblocks",
             "repo": "crypto-bubbles",
-            "stars": 5
+            "stars": 5,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:10:11.969Z"
         },
@@ -502,12 +686,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "IslandCoin White Paper - A Pen and Paper Cash System - How to Run a Blockchain on a Deserted Island by Tal Kol (Book Edition)",
+            "homepage": null,
             "id": 133687978,
             "language": null,
+            "license": null,
             "last_commit": "2018-05-17T16:05:02Z",
+            "open_issues": 0,
             "owner": "bitsblocks",
             "repo": "islandcoin-whitepaper",
-            "stars": 4
+            "stars": 4,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:10:11.969Z"
         }
@@ -526,12 +715,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "source and notes in German about the strange case of Mammad Kabiri @ Uniqa ",
+                "homepage": null,
                 "id": 115440077,
                 "language": null,
+                "license": null,
                 "last_commit": "2022-08-09T19:59:51Z",
+                "open_issues": 0,
                 "owner": "bigkorupto",
                 "repo": "sources",
-                "stars": 11
+                "stars": 11,
+                "topics": [
+                  "austria",
+                  "mammad-kabiri",
+                  "uniqa",
+                  "wolfgang-kuechl"
+                ]
               },
               "first_seen": "2026-08-28T21:10:11.969Z"
             }
@@ -553,12 +752,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "😎 Awesome lists about all kinds of interesting topics [NOTE: Pull requests are temporarily disabled until I have a chance to catch up with the existing ones]",
+            "homepage": null,
             "id": 21737465,
             "language": null,
+            "license": "CC0-1.0",
             "last_commit": "2026-08-21T12:39:13Z",
+            "open_issues": 105,
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 500829
+            "stars": 500890,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "lists",
+              "resources",
+              "unicorns"
+            ]
           },
           "first_seen": "2026-08-28T21:10:11.969Z"
         },
@@ -569,12 +779,32 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "₿ A guide (for humans!) to cryto-currencies and their algos.",
+            "homepage": "https://coinbin.org/",
             "id": 101078039,
             "language": null,
+            "license": "CC0-1.0",
             "last_commit": "2023-07-20T07:10:14Z",
+            "open_issues": 22,
             "owner": "Zheaoli",
             "repo": "awesome-coins",
-            "stars": 4097
+            "stars": 4097,
+            "topics": [
+              "algo",
+              "algorithms",
+              "awesome",
+              "awesome-list",
+              "bitcoin",
+              "btc",
+              "coin",
+              "cryptocurrency",
+              "documentation",
+              "ethereum",
+              "guide",
+              "kennethreitz",
+              "nicehash",
+              "wallet"
+            ]
           },
           "first_seen": "2026-08-28T21:10:11.969Z"
         },
@@ -585,12 +815,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of amazingly awesome Git tools, resources and shiny things",
+            "homepage": null,
             "id": 41074904,
             "language": null,
+            "license": "CC0-1.0",
             "last_commit": "2026-07-07T07:00:27Z",
+            "open_issues": 70,
             "owner": "dictcp",
             "repo": "awesome-git",
-            "stars": 2936
+            "stars": 2936,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "awesome-lists",
+              "git"
+            ]
           },
           "first_seen": "2026-08-28T21:10:11.969Z"
         },
@@ -601,12 +841,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Curated list of blockchain services and exchanges 🔥🏦🔥🏦🔥🏦🔥",
+            "homepage": null,
             "id": 79223400,
             "language": null,
+            "license": null,
             "last_commit": "2024-04-02T13:22:26Z",
+            "open_issues": 20,
             "owner": "imbaniac",
             "repo": "awesome-blockchain",
-            "stars": 891
+            "stars": 891,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "bitcoin",
+              "blockchain",
+              "crypto",
+              "cryptocurrency",
+              "exchange",
+              "money"
+            ]
           },
           "first_seen": "2026-08-28T21:10:11.969Z"
         },
@@ -617,12 +871,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Curated list of the bitcoin blockchain services",
+            "homepage": null,
             "id": 36278697,
             "language": null,
+            "license": null,
             "last_commit": "2023-02-10T16:15:01Z",
+            "open_issues": 8,
             "owner": "igorbarinov",
             "repo": "awesome-blockchain",
-            "stars": 634
+            "stars": 634,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:10:11.969Z"
         },
@@ -633,12 +892,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Awesome CryptoKitties Bubble (Anno 2017) - Yes, Cute Little Cartoon Cats on the Blockchain!  - Digital collectibles secured on a distributed public database w/ crypto hashes.   Learn by Example from the Real World - Buy! Sell! Hodl! Sire!",
+            "homepage": null,
             "id": 113694472,
             "language": "Ruby",
+            "license": "CC0-1.0",
             "last_commit": "2021-04-21T12:33:19Z",
+            "open_issues": 0,
             "owner": "cryptocopycats",
             "repo": "awesome-cryptokitties-bubble",
-            "stars": 524
+            "stars": 524,
+            "topics": [
+              "2017",
+              "blockchain",
+              "bubble",
+              "cryptocollectibles",
+              "cryptokitties",
+              "cryptotulips",
+              "erc721",
+              "kittyverse",
+              "mania",
+              "wck",
+              "wg0",
+              "wvg0"
+            ]
           },
           "first_seen": "2026-08-28T21:10:11.969Z"
         },
@@ -649,12 +926,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Awesome projects and services related to FHE (Fully Homomorphic Encryption)",
+            "homepage": null,
             "id": 58314859,
             "language": null,
+            "license": null,
             "last_commit": "2025-11-02T11:49:48Z",
+            "open_issues": 0,
             "owner": "oiwn",
             "repo": "awesome-fhe-cryptography",
-            "stars": 56
+            "stars": 56,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:10:11.969Z"
         }
@@ -663,15 +945,35 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T21:10:11.969Z",
+    "last_updated": "2026-08-29T04:19:00.363Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A collection about awesome blockchains - open distributed public databases w/ crypto hashes incl. git ;-).  Blockchains are the new tulips :tulip::tulip::tulip:. Distributed is the new centralized. ",
+      "homepage": null,
       "id": 103458675,
       "language": "Ruby",
+      "license": "CC0-1.0",
       "last_commit": "2023-02-10T16:37:58Z",
+      "open_issues": 6,
       "owner": "openblockchains",
       "repo": "awesome-blockchains",
-      "stars": 3778
+      "stars": 3778,
+      "topics": [
+        "blockchain",
+        "content-addressable-storage",
+        "cryptohash",
+        "distributed-database",
+        "ethereum",
+        "git",
+        "merkletree",
+        "proof-of-waste",
+        "proof-of-work",
+        "sha256",
+        "transactions",
+        "tulipmania",
+        "tx",
+        "universum"
+      ]
     },
     "original_repository_sha": "ffc699a7542a8536c44d34f923368d0f09ad1ff4",
     "enhanced_repository": "enhansome/enhansome-blockchains",
