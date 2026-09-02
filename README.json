@@ -444,7 +444,7 @@
             "open_issues": 191,
             "owner": "bitcoinbook",
             "repo": "bitcoinbook",
-            "stars": 25302,
+            "stars": 25306,
             "topics": [
               "bitcoin",
               "bitcoin-api",
@@ -540,7 +540,7 @@
             "open_issues": 0,
             "owner": "ethereumbook",
             "repo": "ethereumbook",
-            "stars": 21522,
+            "stars": 21521,
             "topics": [
               "blockchain",
               "book",
@@ -757,11 +757,11 @@
             "id": 21737465,
             "language": null,
             "license": "CC0-1.0",
-            "last_commit": "2026-08-21T12:39:13Z",
+            "last_commit": "2026-09-02T02:10:47Z",
             "open_issues": 105,
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 501943,
+            "stars": 502257,
             "topics": [
               "awesome",
               "awesome-list",
@@ -788,7 +788,7 @@
             "open_issues": 22,
             "owner": "Zheaoli",
             "repo": "awesome-coins",
-            "stars": 4097,
+            "stars": 4098,
             "topics": [
               "algo",
               "algorithms",
@@ -821,10 +821,10 @@
             "language": null,
             "license": "CC0-1.0",
             "last_commit": "2026-07-07T07:00:27Z",
-            "open_issues": 70,
+            "open_issues": 73,
             "owner": "dictcp",
             "repo": "awesome-git",
-            "stars": 2939,
+            "stars": 2940,
             "topics": [
               "awesome",
               "awesome-list",
@@ -945,7 +945,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-01T14:48:57.246Z",
+    "last_updated": "2026-09-02T14:25:16.478Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection about awesome blockchains - open distributed public databases w/ crypto hashes incl. git ;-).  Blockchains are the new tulips :tulip::tulip::tulip:. Distributed is the new centralized. ",
