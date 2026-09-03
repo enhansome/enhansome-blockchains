@@ -183,7 +183,7 @@ by Daniel van Flymen, September 2017, [(Source)](https://github.com/dvf/blockcha
 <!-- break -->
 
 [**A Practical Introduction to Blockchain with Python**](http://adilmoujahid.com/posts/2018/03/intro-blockchain-bitcoin-python/)
-by Adil Moujahid, March 2018, [(Source)](https://github.com/adilmoujahid/blockchain-python-tutorial) ⭐ 642 | 🐛 8 | 🌐 HTML | 📅 2024-06-24
+by Adil Moujahid, March 2018, [(Source)](https://github.com/adilmoujahid/blockchain-python-tutorial) ⭐ 641 | 🐛 8 | 🌐 HTML | 📅 2024-06-24
 
 ### Ruby
 
@@ -272,7 +272,7 @@ Blockchain Series in Go by by Coral Health [(Source)](https://github.com/mycoral
 
 ### More
 
-See [**Build your own Blockchain / Cryptocurrency**](https://github.com/danistefanovic/build-your-own-x#build-your-own-blockchain--cryptocurrency) ⭐ 544,736 | 🐛 640 | 🌐 Markdown | 📅 2026-07-14 @ Build your own (insert technology here)
+See [**Build your own Blockchain / Cryptocurrency**](https://github.com/danistefanovic/build-your-own-x#build-your-own-blockchain--cryptocurrency) ⭐ 544,958 | 🐛 640 | 🌐 Markdown | 📅 2026-07-14 @ Build your own (insert technology here)
 
 ### Samples
 
@@ -564,7 +564,7 @@ Smart contracts, stupid humans ++
 Business bafflegab, but on the Blockchain ++
 Case study: Why you can’t put the music industry on a blockchain*
 
-[**Mastering Bitcoin - Programming the Open Blockchain**](https://github.com/bitcoinbook/bitcoinbook/blob/second_edition/ch09.asciidoc) ⭐ 25,306 | 🐛 191 | 🌐 HTML | 📅 2024-12-26 2nd Edition,
+[**Mastering Bitcoin - Programming the Open Blockchain**](https://github.com/bitcoinbook/bitcoinbook/blob/second_edition/ch09.asciidoc) ⭐ 25,305 | 🐛 191 | 🌐 HTML | 📅 2024-12-26 2nd Edition,
 by Andreas M. Antonopoulos, 2017 - FREE (Online Source Version) --
 *What Is Bitcoin? ++
 How Bitcoin Works ++
@@ -995,10 +995,10 @@ More @ [cryptocopycats/awesome-cryptokitties](https://github.com/cryptocopycats/
 
 *A curated list of awesome lists.*
 
-* [**Awesome**](https://github.com/sindresorhus/awesome) ⭐ 502,257 | 🐛 105 | 📅 2026-09-02 by Sindre Sorhus et al -- a curated list of awesome lists
-* [**Awesome Coins**](https://github.com/kennethreitz/awesome-coins) ⭐ 4,098 | 🐛 22 | 📅 2023-07-20 by Kenneth Reitz et al -- a guide to crypto-currencies and their algos
-* [**Awesome Git**](https://github.com/dictcp/awesome-git) ⭐ 2,940 | 🐛 73 | 📅 2026-07-07 by Dick Tang et al -- a curated list of amazingly awesome Git tools, resources and shiny things
-* [**Awesome Blockchain**](https://github.com/imbaniac/awesome-blockchain) ⭐ 890 | 🐛 20 | 📅 2024-04-02 by Tim Reznich et al -- a curated list of blockchain services and exchanges
+* [**Awesome**](https://github.com/sindresorhus/awesome) ⭐ 502,609 | 🐛 105 | 📅 2026-09-02 by Sindre Sorhus et al -- a curated list of awesome lists
+* [**Awesome Coins**](https://github.com/kennethreitz/awesome-coins) ⭐ 4,099 | 🐛 22 | 📅 2023-07-20 by Kenneth Reitz et al -- a guide to crypto-currencies and their algos
+* [**Awesome Git**](https://github.com/dictcp/awesome-git) ⭐ 2,941 | 🐛 75 | 📅 2026-07-07 by Dick Tang et al -- a curated list of amazingly awesome Git tools, resources and shiny things
+* [**Awesome Blockchain**](https://github.com/imbaniac/awesome-blockchain) ⭐ 889 | 🐛 20 | 📅 2024-04-02 by Tim Reznich et al -- a curated list of blockchain services and exchanges
 * [**Awesome Blockchain**](https://github.com/igorbarinov/awesome-blockchain) ⭐ 633 | 🐛 8 | 📅 2023-02-10 by Igor Barinov et al -- a curated list of the bitcoin blockchain services
 * [**Awesome CryptoKitties (and CryptoCopycats)**](https://github.com/openblockchains/awesome-cryptokitties) ⭐ 524 | 🐛 0 | 🌐 Ruby | 📅 2021-04-21 by Gerald Bauer et al -- a curated list about the awesome crypto kitties and copycats
 * [**Awesome Blockchain**](https://github.com/istinspring/awesome-blockchain) ⭐ 56 | 🐛 0 | 📅 2025-11-02 by `istinspring` et al -- a curated list of awesome projects and services based on blockchain technology
@@ -1015,4 +1015,4 @@ The awesome list is dedicated to the public domain. Use it as you please with no
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-02._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-03._
