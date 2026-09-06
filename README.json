@@ -295,7 +295,7 @@
                 "open_issues": 53,
                 "owner": "Jeiwan",
                 "repo": "blockchain_go",
-                "stars": 4375,
+                "stars": 4374,
                 "topics": [
                   "bitcoin",
                   "blockchain",
@@ -444,7 +444,7 @@
             "open_issues": 191,
             "owner": "bitcoinbook",
             "repo": "bitcoinbook",
-            "stars": 25305,
+            "stars": 25300,
             "topics": [
               "bitcoin",
               "bitcoin-api",
@@ -540,7 +540,7 @@
             "open_issues": 0,
             "owner": "ethereumbook",
             "repo": "ethereumbook",
-            "stars": 21519,
+            "stars": 21520,
             "topics": [
               "blockchain",
               "book",
@@ -761,7 +761,7 @@
             "open_issues": 106,
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 503177,
+            "stars": 503500,
             "topics": [
               "awesome",
               "awesome-list",
@@ -945,7 +945,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-05T13:25:51.219Z",
+    "last_updated": "2026-09-06T13:38:54.102Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection about awesome blockchains - open distributed public databases w/ crypto hashes incl. git ;-).  Blockchains are the new tulips :tulip::tulip::tulip:. Distributed is the new centralized. ",
