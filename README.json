@@ -119,7 +119,7 @@
                 "open_issues": 2,
                 "owner": "nambrot",
                 "repo": "blockchain-in-js",
-                "stars": 1132,
+                "stars": 1131,
                 "topics": [
                   "bitcoin",
                   "blockchain",
@@ -292,10 +292,10 @@
                 "language": "Go",
                 "license": null,
                 "last_commit": "2024-06-20T18:03:44Z",
-                "open_issues": 52,
+                "open_issues": 51,
                 "owner": "Jeiwan",
                 "repo": "blockchain_go",
-                "stars": 4373,
+                "stars": 4372,
                 "topics": [
                   "bitcoin",
                   "blockchain",
@@ -444,7 +444,7 @@
             "open_issues": 191,
             "owner": "bitcoinbook",
             "repo": "bitcoinbook",
-            "stars": 25311,
+            "stars": 25315,
             "topics": [
               "bitcoin",
               "bitcoin-api",
@@ -540,7 +540,7 @@
             "open_issues": 0,
             "owner": "ethereumbook",
             "repo": "ethereumbook",
-            "stars": 21532,
+            "stars": 21531,
             "topics": [
               "blockchain",
               "book",
@@ -761,7 +761,7 @@
             "open_issues": 106,
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 506242,
+            "stars": 506611,
             "topics": [
               "awesome",
               "awesome-list",
@@ -824,7 +824,7 @@
             "open_issues": 80,
             "owner": "dictcp",
             "repo": "awesome-git",
-            "stars": 2944,
+            "stars": 2946,
             "topics": [
               "awesome",
               "awesome-list",
@@ -847,7 +847,7 @@
             "language": null,
             "license": null,
             "last_commit": "2024-04-02T13:22:26Z",
-            "open_issues": 20,
+            "open_issues": 21,
             "owner": "imbaniac",
             "repo": "awesome-blockchain",
             "stars": 889,
@@ -877,10 +877,10 @@
             "language": null,
             "license": null,
             "last_commit": "2023-02-10T16:15:01Z",
-            "open_issues": 8,
+            "open_issues": 9,
             "owner": "igorbarinov",
             "repo": "awesome-blockchain",
-            "stars": 633,
+            "stars": 632,
             "topics": []
           },
           "first_seen": "2026-08-28T21:10:11.969Z"
@@ -945,7 +945,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-15T14:56:35.916Z",
+    "last_updated": "2026-09-16T14:54:00.657Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection about awesome blockchains - open distributed public databases w/ crypto hashes incl. git ;-).  Blockchains are the new tulips :tulip::tulip::tulip:. Distributed is the new centralized. ",
@@ -957,7 +957,7 @@
       "open_issues": 8,
       "owner": "openblockchains",
       "repo": "awesome-blockchains",
-      "stars": 3780,
+      "stars": 3779,
       "topics": [
         "blockchain",
         "content-addressable-storage",
