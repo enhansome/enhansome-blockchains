@@ -536,11 +536,11 @@
             "id": 65392364,
             "language": null,
             "license": null,
-            "last_commit": "2026-09-18T13:04:03Z",
-            "open_issues": 2,
+            "last_commit": "2026-09-19T16:50:34Z",
+            "open_issues": 3,
             "owner": "ethereumbook",
             "repo": "ethereumbook",
-            "stars": 21530,
+            "stars": 21529,
             "topics": [
               "blockchain",
               "book",
@@ -761,7 +761,7 @@
             "open_issues": 106,
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 507733,
+            "stars": 508094,
             "topics": [
               "awesome",
               "awesome-list",
@@ -945,7 +945,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-19T13:54:48.626Z",
+    "last_updated": "2026-09-20T14:10:51.743Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection about awesome blockchains - open distributed public databases w/ crypto hashes incl. git ;-).  Blockchains are the new tulips :tulip::tulip::tulip:. Distributed is the new centralized. ",
