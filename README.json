@@ -32,8 +32,8 @@
               "description": null,
               "children": [],
               "repo_info": {
-                "archived": false,
-                "description": "Jack's Blockchain -- Simple blockchain to learn and talk about how blockchains work.",
+                "archived": true,
+                "description": "Early work (2017): a simple blockchain to learn and talk about how blockchains work.",
                 "homepage": null,
                 "id": 107161623,
                 "language": "Python",
@@ -321,7 +321,7 @@
                 "open_issues": 3,
                 "owner": "nosequeldeebee",
                 "repo": "blockchain-tutorial",
-                "stars": 1601,
+                "stars": 1602,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:10:11.969Z"
@@ -444,7 +444,7 @@
             "open_issues": 191,
             "owner": "bitcoinbook",
             "repo": "bitcoinbook",
-            "stars": 25323,
+            "stars": 25325,
             "topics": [
               "bitcoin",
               "bitcoin-api",
@@ -471,7 +471,7 @@
             "open_issues": 120,
             "owner": "jimmysong",
             "repo": "programmingbitcoin",
-            "stars": 1884,
+            "stars": 1885,
             "topics": []
           },
           "first_seen": "2026-08-28T21:10:11.969Z"
@@ -761,7 +761,7 @@
             "open_issues": 106,
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 509271,
+            "stars": 509768,
             "topics": [
               "awesome",
               "awesome-list",
@@ -788,7 +788,7 @@
             "open_issues": 23,
             "owner": "Zheaoli",
             "repo": "awesome-coins",
-            "stars": 4106,
+            "stars": 4107,
             "topics": [
               "algo",
               "algorithms",
@@ -821,7 +821,7 @@
             "language": null,
             "license": "CC0-1.0",
             "last_commit": "2026-07-07T07:00:27Z",
-            "open_issues": 84,
+            "open_issues": 85,
             "owner": "dictcp",
             "repo": "awesome-git",
             "stars": 2947,
@@ -850,7 +850,7 @@
             "open_issues": 21,
             "owner": "imbaniac",
             "repo": "awesome-blockchain",
-            "stars": 890,
+            "stars": 889,
             "topics": [
               "awesome",
               "awesome-list",
@@ -945,7 +945,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-23T14:57:36.020Z",
+    "last_updated": "2026-09-24T14:59:39.370Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection about awesome blockchains - open distributed public databases w/ crypto hashes incl. git ;-).  Blockchains are the new tulips :tulip::tulip::tulip:. Distributed is the new centralized. ",
