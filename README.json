@@ -444,7 +444,7 @@
             "open_issues": 191,
             "owner": "bitcoinbook",
             "repo": "bitcoinbook",
-            "stars": 25329,
+            "stars": 25331,
             "topics": [
               "bitcoin",
               "bitcoin-api",
@@ -761,7 +761,7 @@
             "open_issues": 107,
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 510274,
+            "stars": 510769,
             "topics": [
               "awesome",
               "awesome-list",
@@ -821,10 +821,10 @@
             "language": null,
             "license": "CC0-1.0",
             "last_commit": "2026-07-07T07:00:27Z",
-            "open_issues": 85,
+            "open_issues": 87,
             "owner": "dictcp",
             "repo": "awesome-git",
-            "stars": 2948,
+            "stars": 2949,
             "topics": [
               "awesome",
               "awesome-list",
@@ -850,7 +850,7 @@
             "open_issues": 21,
             "owner": "imbaniac",
             "repo": "awesome-blockchain",
-            "stars": 889,
+            "stars": 890,
             "topics": [
               "awesome",
               "awesome-list",
@@ -945,7 +945,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-25T15:11:59.275Z",
+    "last_updated": "2026-09-26T14:25:18.005Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection about awesome blockchains - open distributed public databases w/ crypto hashes incl. git ;-).  Blockchains are the new tulips :tulip::tulip::tulip:. Distributed is the new centralized. ",
