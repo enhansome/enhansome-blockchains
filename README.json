@@ -29,7 +29,7 @@
             {
               "node_type": "item",
               "title": "Build Your Own Blockchain (in Python 3) Series by Jack Schultz, (Source)",
-              "description": null,
+              "description": "jackschultz/jbc",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -282,7 +282,7 @@
             {
               "node_type": "item",
               "title": "Building Blockchain in Go Series by Ivan Kuznetsov, (Source)",
-              "description": null,
+              "description": "Jeiwan/blockchain_go",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -308,7 +308,7 @@
             {
               "node_type": "item",
               "title": "Blockchain Series in Go by by Coral Health (Source)",
-              "description": null,
+              "description": "nosequeldeebee/blockchain-tutorial",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -540,7 +540,7 @@
             "open_issues": 1,
             "owner": "ethereumbook",
             "repo": "ethereumbook",
-            "stars": 21536,
+            "stars": 21535,
             "topics": [
               "blockchain",
               "book",
@@ -761,7 +761,7 @@
             "open_issues": 106,
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 513602,
+            "stars": 513795,
             "topics": [
               "awesome",
               "awesome-list",
@@ -821,10 +821,10 @@
             "language": null,
             "license": "CC0-1.0",
             "last_commit": "2026-07-07T07:00:27Z",
-            "open_issues": 89,
+            "open_issues": 90,
             "owner": "dictcp",
             "repo": "awesome-git",
-            "stars": 2950,
+            "stars": 2949,
             "topics": [
               "awesome",
               "awesome-list",
@@ -945,7 +945,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T16:14:44.482Z",
+    "last_updated": "2026-10-03T04:36:25.986Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection about awesome blockchains - open distributed public databases w/ crypto hashes incl. git ;-).  Blockchains are the new tulips :tulip::tulip::tulip:. Distributed is the new centralized. ",
