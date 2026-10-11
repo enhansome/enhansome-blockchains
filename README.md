@@ -63,7 +63,7 @@ For more about Diem (formerly Libra), see the [Awesome Diem (formerly Libra) and
 
 ***
 
-For crypto quotes, see the new [**100+ Best of Crypto Quotes - I HODL, you HODL, we HODL! - BREAKING: BITCOIN JUST BROKE $22 000! page »**](https://github.com/openblockchains/crypto-quotes) ⭐ 15 | 🐛 0 | 📅 2021-01-19
+For crypto quotes, see the new [**100+ Best of Crypto Quotes - I HODL, you HODL, we HODL! - BREAKING: BITCOIN JUST BROKE $22 000! page »**](https://github.com/openblockchains/crypto-quotes) ⭐ 16 | 🐛 0 | 📅 2021-01-19
 
 ### The Best Crypto Quote "Oracle Saying" of the Year 2020 Award Goes To...
 
@@ -172,7 +172,7 @@ The "classic" Satoshi-blockchain is like a git repo with a single master branch 
 by Eric Munsing, March 2017, [(Source)](https://github.com/emunsing/tutorials/blob/master/BuildYourOwnBlockchain.ipynb) ⭐ 102 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2017-08-30
 
 [**Learn Blockchains by Building One (in Python)**](https://hackernoon.com/learn-blockchains-by-building-one-117428612f46)
-by Daniel van Flymen, September 2017, [(Source)](https://github.com/dvf/blockchain) ⭐ 8,037 | 🐛 133 | 🌐 C# | 📅 2024-07-21 -- The fastest way to learn how Blockchains work is to build one
+by Daniel van Flymen, September 2017, [(Source)](https://github.com/dvf/blockchain) ⭐ 8,038 | 🐛 133 | 🌐 C# | 📅 2024-07-21 -- The fastest way to learn how Blockchains work is to build one
 
 **Build Your Own Blockchain (in Python 3) Series** by Jack Schultz, [(Source)](https://github.com/jackschultz/jbc) ⚠️ Archived
 
@@ -272,7 +272,7 @@ Blockchain Series in Go by by Coral Health [(Source)](https://github.com/mycoral
 
 ### More
 
-See [**Build your own Blockchain / Cryptocurrency**](https://github.com/danistefanovic/build-your-own-x#build-your-own-blockchain--cryptocurrency) ⭐ 552,352 | 🐛 674 | 🌐 Markdown | 📅 2026-07-14 @ Build your own (insert technology here)
+See [**Build your own Blockchain / Cryptocurrency**](https://github.com/danistefanovic/build-your-own-x#build-your-own-blockchain--cryptocurrency) ⭐ 552,508 | 🐛 674 | 🌐 Markdown | 📅 2026-07-14 @ Build your own (insert technology here)
 
 ### Samples
 
@@ -564,7 +564,7 @@ Smart contracts, stupid humans ++
 Business bafflegab, but on the Blockchain ++
 Case study: Why you can’t put the music industry on a blockchain*
 
-[**Mastering Bitcoin - Programming the Open Blockchain**](https://github.com/bitcoinbook/bitcoinbook/blob/second_edition/ch09.asciidoc) ⭐ 25,331 | 🐛 191 | 🌐 HTML | 📅 2024-12-26 2nd Edition,
+[**Mastering Bitcoin - Programming the Open Blockchain**](https://github.com/bitcoinbook/bitcoinbook/blob/second_edition/ch09.asciidoc) ⭐ 25,332 | 🐛 191 | 🌐 HTML | 📅 2024-12-26 2nd Edition,
 by Andreas M. Antonopoulos, 2017 - FREE (Online Source Version) --
 *What Is Bitcoin? ++
 How Bitcoin Works ++
@@ -610,7 +610,7 @@ about 179 kilograms of CO₂ per bitcoin transaction (300 kW/h × 0.596 kg). For
 by Gerald Bauer et al, 2019 - FREE (Online Version) --
 *Let's start with building your own bitcoin stack machine from zero / scratch and let's run your own bitcoin ops (operations)...*
 
-[**Programming Blockchains in Ruby from Scratch Step-by-Step Starting w/ Crypto Hashes... ( Beta / Rough Draft )**](https://github.com/yukimotopress/programming-blockchains-step-by-step) ⭐ 679 | 🐛 0 | 🌐 Ruby | 📅 2021-01-02
+[**Programming Blockchains in Ruby from Scratch Step-by-Step Starting w/ Crypto Hashes... ( Beta / Rough Draft )**](https://github.com/yukimotopress/programming-blockchains-step-by-step) ⭐ 680 | 🐛 0 | 🌐 Ruby | 📅 2021-01-02
 by Gerald Bauer et al, 2018 - FREE (Online Version) --
 *(Crypto) Hash ++
 (Crypto) Block ++
@@ -622,7 +622,7 @@ Mining, Mining, Mining - What's Your Hash Rate? ++
 Bitcoin, Bitcoin, Bitcoin ++
 (Crypto) Block with Transactions (Tx)*
 
-[**Mastering Ethereum - Building Contract Services and Decentralized Apps on the Blockchain**](https://github.com/ethereumbook/ethereumbook) ⭐ 21,530 | 🐛 2 | 📅 2026-10-06 -
+[**Mastering Ethereum - Building Contract Services and Decentralized Apps on the Blockchain**](https://github.com/ethereumbook/ethereumbook) ⭐ 21,529 | 🐛 1 | 📅 2026-10-10 -
 by Andreas M. Antonopoulos, Gavin Wood, 2018 - FREE (Online Source Version)
 *What is Ethereum ++
 Introduction ++
@@ -995,9 +995,9 @@ More @ [cryptocopycats/awesome-cryptokitties](https://github.com/cryptocopycats/
 
 *A curated list of awesome lists.*
 
-* [**Awesome**](https://github.com/sindresorhus/awesome) ⭐ 517,106 | 🐛 106 | 📅 2026-09-02 by Sindre Sorhus et al -- a curated list of awesome lists
+* [**Awesome**](https://github.com/sindresorhus/awesome) ⭐ 517,556 | 🐛 105 | 📅 2026-09-02 by Sindre Sorhus et al -- a curated list of awesome lists
 * [**Awesome Coins**](https://github.com/kennethreitz/awesome-coins) ⭐ 4,108 | 🐛 23 | 📅 2023-07-20 by Kenneth Reitz et al -- a guide to crypto-currencies and their algos
-* [**Awesome Git**](https://github.com/dictcp/awesome-git) ⭐ 2,950 | 🐛 99 | 📅 2026-07-07 by Dick Tang et al -- a curated list of amazingly awesome Git tools, resources and shiny things
+* [**Awesome Git**](https://github.com/dictcp/awesome-git) ⭐ 2,951 | 🐛 99 | 📅 2026-07-07 by Dick Tang et al -- a curated list of amazingly awesome Git tools, resources and shiny things
 * [**Awesome Blockchain**](https://github.com/imbaniac/awesome-blockchain) ⭐ 890 | 🐛 21 | 📅 2024-04-02 by Tim Reznich et al -- a curated list of blockchain services and exchanges
 * [**Awesome Blockchain**](https://github.com/igorbarinov/awesome-blockchain) ⭐ 632 | 🐛 10 | 📅 2023-02-10 by Igor Barinov et al -- a curated list of the bitcoin blockchain services
 * [**Awesome CryptoKitties (and CryptoCopycats)**](https://github.com/openblockchains/awesome-cryptokitties) ⭐ 523 | 🐛 0 | 🌐 Ruby | 📅 2021-04-21 by Gerald Bauer et al -- a curated list about the awesome crypto kitties and copycats
@@ -1015,4 +1015,4 @@ The awesome list is dedicated to the public domain. Use it as you please with no
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-10._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-11._
