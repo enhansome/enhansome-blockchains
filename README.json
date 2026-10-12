@@ -119,7 +119,7 @@
                 "open_issues": 2,
                 "owner": "nambrot",
                 "repo": "blockchain-in-js",
-                "stars": 1131,
+                "stars": 1132,
                 "topics": [
                   "bitcoin",
                   "blockchain",
@@ -444,7 +444,7 @@
             "open_issues": 191,
             "owner": "bitcoinbook",
             "repo": "bitcoinbook",
-            "stars": 25332,
+            "stars": 25330,
             "topics": [
               "bitcoin",
               "bitcoin-api",
@@ -536,11 +536,11 @@
             "id": 65392364,
             "language": null,
             "license": null,
-            "last_commit": "2026-10-10T17:35:11Z",
+            "last_commit": "2026-10-12T18:12:35Z",
             "open_issues": 1,
             "owner": "ethereumbook",
             "repo": "ethereumbook",
-            "stars": 21529,
+            "stars": 21528,
             "topics": [
               "blockchain",
               "book",
@@ -761,7 +761,7 @@
             "open_issues": 105,
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 517556,
+            "stars": 518096,
             "topics": [
               "awesome",
               "awesome-list",
@@ -788,7 +788,7 @@
             "open_issues": 23,
             "owner": "Zheaoli",
             "repo": "awesome-coins",
-            "stars": 4108,
+            "stars": 4109,
             "topics": [
               "algo",
               "algorithms",
@@ -824,7 +824,7 @@
             "open_issues": 99,
             "owner": "dictcp",
             "repo": "awesome-git",
-            "stars": 2951,
+            "stars": 2955,
             "topics": [
               "awesome",
               "awesome-list",
@@ -850,7 +850,7 @@
             "open_issues": 21,
             "owner": "imbaniac",
             "repo": "awesome-blockchain",
-            "stars": 890,
+            "stars": 891,
             "topics": [
               "awesome",
               "awesome-list",
@@ -945,7 +945,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-11T16:17:29.645Z",
+    "last_updated": "2026-10-12T19:46:43.442Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection about awesome blockchains - open distributed public databases w/ crypto hashes incl. git ;-).  Blockchains are the new tulips :tulip::tulip::tulip:. Distributed is the new centralized. ",
