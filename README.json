@@ -295,7 +295,7 @@
                 "open_issues": 50,
                 "owner": "Jeiwan",
                 "repo": "blockchain_go",
-                "stars": 4373,
+                "stars": 4374,
                 "topics": [
                   "bitcoin",
                   "blockchain",
@@ -441,10 +441,10 @@
             "language": "HTML",
             "license": "NOASSERTION",
             "last_commit": "2024-12-26T18:18:32Z",
-            "open_issues": 191,
+            "open_issues": 192,
             "owner": "bitcoinbook",
             "repo": "bitcoinbook",
-            "stars": 25329,
+            "stars": 25330,
             "topics": [
               "bitcoin",
               "bitcoin-api",
@@ -519,7 +519,7 @@
             "open_issues": 0,
             "owner": "openblockchains",
             "repo": "programming-blockchains",
-            "stars": 680,
+            "stars": 681,
             "topics": []
           },
           "first_seen": "2026-08-28T21:10:11.969Z"
@@ -761,7 +761,7 @@
             "open_issues": 105,
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 520763,
+            "stars": 521340,
             "topics": [
               "awesome",
               "awesome-list",
@@ -821,7 +821,7 @@
             "language": null,
             "license": "CC0-1.0",
             "last_commit": "2026-07-07T07:00:27Z",
-            "open_issues": 108,
+            "open_issues": 111,
             "owner": "dictcp",
             "repo": "awesome-git",
             "stars": 2957,
@@ -945,7 +945,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-18T13:57:55.496Z",
+    "last_updated": "2026-10-19T16:57:32.208Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection about awesome blockchains - open distributed public databases w/ crypto hashes incl. git ;-).  Blockchains are the new tulips :tulip::tulip::tulip:. Distributed is the new centralized. ",
@@ -957,7 +957,7 @@
       "open_issues": 5,
       "owner": "openblockchains",
       "repo": "awesome-blockchains",
-      "stars": 3784,
+      "stars": 3785,
       "topics": [
         "blockchain",
         "content-addressable-storage",
