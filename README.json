@@ -295,7 +295,7 @@
                 "open_issues": 50,
                 "owner": "Jeiwan",
                 "repo": "blockchain_go",
-                "stars": 4374,
+                "stars": 4373,
                 "topics": [
                   "bitcoin",
                   "blockchain",
@@ -444,7 +444,7 @@
             "open_issues": 192,
             "owner": "bitcoinbook",
             "repo": "bitcoinbook",
-            "stars": 25333,
+            "stars": 25335,
             "topics": [
               "bitcoin",
               "bitcoin-api",
@@ -761,7 +761,7 @@
             "open_issues": 105,
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 522736,
+            "stars": 523470,
             "topics": [
               "awesome",
               "awesome-list",
@@ -820,8 +820,8 @@
             "id": 41074904,
             "language": null,
             "license": "CC0-1.0",
-            "last_commit": "2026-07-07T07:00:27Z",
-            "open_issues": 114,
+            "last_commit": "2026-10-23T08:16:08Z",
+            "open_issues": 111,
             "owner": "dictcp",
             "repo": "awesome-git",
             "stars": 2959,
@@ -847,7 +847,7 @@
             "language": null,
             "license": null,
             "last_commit": "2024-04-02T13:22:26Z",
-            "open_issues": 20,
+            "open_issues": 21,
             "owner": "imbaniac",
             "repo": "awesome-blockchain",
             "stars": 892,
@@ -877,7 +877,7 @@
             "language": null,
             "license": null,
             "last_commit": "2023-02-10T16:15:01Z",
-            "open_issues": 9,
+            "open_issues": 10,
             "owner": "igorbarinov",
             "repo": "awesome-blockchain",
             "stars": 632,
@@ -945,7 +945,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-22T15:10:51.794Z",
+    "last_updated": "2026-10-23T14:59:30.175Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection about awesome blockchains - open distributed public databases w/ crypto hashes incl. git ;-).  Blockchains are the new tulips :tulip::tulip::tulip:. Distributed is the new centralized. ",
@@ -954,10 +954,10 @@
       "language": "Ruby",
       "license": "CC0-1.0",
       "last_commit": "2023-02-10T16:37:58Z",
-      "open_issues": 5,
+      "open_issues": 7,
       "owner": "openblockchains",
       "repo": "awesome-blockchains",
-      "stars": 3785,
+      "stars": 3786,
       "topics": [
         "blockchain",
         "content-addressable-storage",
