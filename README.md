@@ -172,7 +172,7 @@ The "classic" Satoshi-blockchain is like a git repo with a single master branch 
 by Eric Munsing, March 2017, [(Source)](https://github.com/emunsing/tutorials/blob/master/BuildYourOwnBlockchain.ipynb) ⭐ 102 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2017-08-30
 
 [**Learn Blockchains by Building One (in Python)**](https://hackernoon.com/learn-blockchains-by-building-one-117428612f46)
-by Daniel van Flymen, September 2017, [(Source)](https://github.com/dvf/blockchain) ⭐ 8,042 | 🐛 133 | 🌐 C# | 📅 2024-07-21 -- The fastest way to learn how Blockchains work is to build one
+by Daniel van Flymen, September 2017, [(Source)](https://github.com/dvf/blockchain) ⭐ 8,041 | 🐛 133 | 🌐 C# | 📅 2024-07-21 -- The fastest way to learn how Blockchains work is to build one
 
 **Build Your Own Blockchain (in Python 3) Series** by Jack Schultz, [(Source)](https://github.com/jackschultz/jbc) ⚠️ Archived
 
@@ -238,7 +238,7 @@ by Xavier Decuyper, July 2017
 
 ### Go
 
-**Building Blockchain in Go Series** by Ivan Kuznetsov, [(Source)](https://github.com/Jeiwan/blockchain_go) ⭐ 4,373 | 🐛 50 | 🌐 Go | 📅 2024-06-20
+**Building Blockchain in Go Series** by Ivan Kuznetsov, [(Source)](https://github.com/Jeiwan/blockchain_go) ⭐ 4,371 | 🐛 50 | 🌐 Go | 📅 2024-06-20
 
 * [**Part 1: Basic Prototype**](https://jeiwan.cc/posts/building-blockchain-in-go-part-1/), August 2017
 * [**Part 2: Proof-of-Work**](https://jeiwan.cc/posts/building-blockchain-in-go-part-2/), August 2017
@@ -272,7 +272,7 @@ Blockchain Series in Go by by Coral Health [(Source)](https://github.com/mycoral
 
 ### More
 
-See [**Build your own Blockchain / Cryptocurrency**](https://github.com/danistefanovic/build-your-own-x#build-your-own-blockchain--cryptocurrency) ⭐ 556,590 | 🐛 681 | 🌐 Markdown | 📅 2026-07-14 @ Build your own (insert technology here)
+See [**Build your own Blockchain / Cryptocurrency**](https://github.com/danistefanovic/build-your-own-x#build-your-own-blockchain--cryptocurrency) ⭐ 556,857 | 🐛 684 | 🌐 Markdown | 📅 2026-07-14 @ Build your own (insert technology here)
 
 ### Samples
 
@@ -622,7 +622,7 @@ Mining, Mining, Mining - What's Your Hash Rate? ++
 Bitcoin, Bitcoin, Bitcoin ++
 (Crypto) Block with Transactions (Tx)*
 
-[**Mastering Ethereum - Building Contract Services and Decentralized Apps on the Blockchain**](https://github.com/ethereumbook/ethereumbook) ⭐ 21,538 | 🐛 1 | 📅 2026-10-12 -
+[**Mastering Ethereum - Building Contract Services and Decentralized Apps on the Blockchain**](https://github.com/ethereumbook/ethereumbook) ⭐ 21,538 | 🐛 0 | 📅 2026-10-12 -
 by Andreas M. Antonopoulos, Gavin Wood, 2018 - FREE (Online Source Version)
 *What is Ethereum ++
 Introduction ++
@@ -650,7 +650,7 @@ Running contract services on the Ethereum blockchain ++
 Developing Ethereum Decentralized apps with Truffle ++
 Best design and security practice*
 
-[**Programming Crypto Blockchain Contracts Step-by-Step Book / Guide ( Beta / Rough Draft )**](https://github.com/openblockchains/programming-cryptocontracts) ⭐ 92 | 🐛 0 | 🌐 Ruby | 📅 2021-01-02 by Gerald Bauer et al, 2019 - FREE (Online Version) --
+[**Programming Crypto Blockchain Contracts Step-by-Step Book / Guide ( Beta / Rough Draft )**](https://github.com/openblockchains/programming-cryptocontracts) ⭐ 93 | 🐛 0 | 🌐 Ruby | 📅 2021-01-02 by Gerald Bauer et al, 2019 - FREE (Online Version) --
 *Let's Start with Ponzi & Pyramid Schemes. Run Your Own Lotteries, Gambling Casinos and more on the Blockchain World Computer...*
 
 [**Programming Cryptocurrencies and Blockchains in Ruby ( Beta / Rough Draft )**](http://yukimotopress.github.io/blockchains)
@@ -995,9 +995,9 @@ More @ [cryptocopycats/awesome-cryptokitties](https://github.com/cryptocopycats/
 
 *A curated list of awesome lists.*
 
-* [**Awesome**](https://github.com/sindresorhus/awesome) ⭐ 525,542 | 🐛 105 | 📅 2026-09-02 by Sindre Sorhus et al -- a curated list of awesome lists
-* [**Awesome Coins**](https://github.com/kennethreitz/awesome-coins) ⭐ 4,118 | 🐛 23 | 📅 2023-07-20 by Kenneth Reitz et al -- a guide to crypto-currencies and their algos
-* [**Awesome Git**](https://github.com/dictcp/awesome-git) ⭐ 2,960 | 🐛 115 | 📅 2026-10-23 by Dick Tang et al -- a curated list of amazingly awesome Git tools, resources and shiny things
+* [**Awesome**](https://github.com/sindresorhus/awesome) ⭐ 526,151 | 🐛 105 | 📅 2026-09-02 by Sindre Sorhus et al -- a curated list of awesome lists
+* [**Awesome Coins**](https://github.com/kennethreitz/awesome-coins) ⭐ 4,119 | 🐛 23 | 📅 2023-07-20 by Kenneth Reitz et al -- a guide to crypto-currencies and their algos
+* [**Awesome Git**](https://github.com/dictcp/awesome-git) ⭐ 2,962 | 🐛 114 | 📅 2026-10-23 by Dick Tang et al -- a curated list of amazingly awesome Git tools, resources and shiny things
 * [**Awesome Blockchain**](https://github.com/imbaniac/awesome-blockchain) ⭐ 893 | 🐛 22 | 📅 2024-04-02 by Tim Reznich et al -- a curated list of blockchain services and exchanges
 * [**Awesome Blockchain**](https://github.com/igorbarinov/awesome-blockchain) ⭐ 631 | 🐛 10 | 📅 2023-02-10 by Igor Barinov et al -- a curated list of the bitcoin blockchain services
 * [**Awesome CryptoKitties (and CryptoCopycats)**](https://github.com/openblockchains/awesome-cryptokitties) ⭐ 523 | 🐛 0 | 🌐 Ruby | 📅 2021-04-21 by Gerald Bauer et al -- a curated list about the awesome crypto kitties and copycats
@@ -1015,4 +1015,4 @@ The awesome list is dedicated to the public domain. Use it as you please with no
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-27._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-28._

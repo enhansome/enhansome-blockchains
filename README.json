@@ -295,7 +295,7 @@
                 "open_issues": 50,
                 "owner": "Jeiwan",
                 "repo": "blockchain_go",
-                "stars": 4373,
+                "stars": 4371,
                 "topics": [
                   "bitcoin",
                   "blockchain",
@@ -537,7 +537,7 @@
             "language": null,
             "license": null,
             "last_commit": "2026-10-12T18:12:35Z",
-            "open_issues": 1,
+            "open_issues": 0,
             "owner": "ethereumbook",
             "repo": "ethereumbook",
             "stars": 21538,
@@ -574,7 +574,7 @@
             "open_issues": 0,
             "owner": "s6ruby",
             "repo": "programming-crypto-contracts",
-            "stars": 92,
+            "stars": 93,
             "topics": [
               "blockchain",
               "casino",
@@ -761,7 +761,7 @@
             "open_issues": 105,
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 525542,
+            "stars": 526151,
             "topics": [
               "awesome",
               "awesome-list",
@@ -788,7 +788,7 @@
             "open_issues": 23,
             "owner": "Zheaoli",
             "repo": "awesome-coins",
-            "stars": 4118,
+            "stars": 4119,
             "topics": [
               "algo",
               "algorithms",
@@ -821,10 +821,10 @@
             "language": null,
             "license": "CC0-1.0",
             "last_commit": "2026-10-23T08:16:08Z",
-            "open_issues": 115,
+            "open_issues": 114,
             "owner": "dictcp",
             "repo": "awesome-git",
-            "stars": 2960,
+            "stars": 2962,
             "topics": [
               "awesome",
               "awesome-list",
@@ -945,7 +945,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-27T15:51:01.947Z",
+    "last_updated": "2026-10-28T16:35:07.189Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection about awesome blockchains - open distributed public databases w/ crypto hashes incl. git ;-).  Blockchains are the new tulips :tulip::tulip::tulip:. Distributed is the new centralized. ",
@@ -957,7 +957,7 @@
       "open_issues": 6,
       "owner": "openblockchains",
       "repo": "awesome-blockchains",
-      "stars": 3784,
+      "stars": 3783,
       "topics": [
         "blockchain",
         "content-addressable-storage",
