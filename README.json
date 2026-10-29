@@ -349,7 +349,7 @@
                 "open_issues": 1,
                 "owner": "geraldb",
                 "repo": "talks",
-                "stars": 221,
+                "stars": 222,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:10:11.969Z"
@@ -370,7 +370,7 @@
                 "open_issues": 1,
                 "owner": "geraldb",
                 "repo": "talks",
-                "stars": 221,
+                "stars": 222,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:10:11.969Z"
@@ -391,7 +391,7 @@
                 "open_issues": 1,
                 "owner": "geraldb",
                 "repo": "talks",
-                "stars": 221,
+                "stars": 222,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:10:11.969Z"
@@ -412,7 +412,7 @@
                 "open_issues": 1,
                 "owner": "geraldb",
                 "repo": "talks",
-                "stars": 221,
+                "stars": 222,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:10:11.969Z"
@@ -441,10 +441,10 @@
             "language": "HTML",
             "license": "NOASSERTION",
             "last_commit": "2024-12-26T18:18:32Z",
-            "open_issues": 192,
+            "open_issues": 193,
             "owner": "bitcoinbook",
             "repo": "bitcoinbook",
-            "stars": 25336,
+            "stars": 25334,
             "topics": [
               "bitcoin",
               "bitcoin-api",
@@ -540,7 +540,7 @@
             "open_issues": 0,
             "owner": "ethereumbook",
             "repo": "ethereumbook",
-            "stars": 21538,
+            "stars": 21536,
             "topics": [
               "blockchain",
               "book",
@@ -761,7 +761,7 @@
             "open_issues": 105,
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 526151,
+            "stars": 526693,
             "topics": [
               "awesome",
               "awesome-list",
@@ -788,7 +788,7 @@
             "open_issues": 23,
             "owner": "Zheaoli",
             "repo": "awesome-coins",
-            "stars": 4119,
+            "stars": 4118,
             "topics": [
               "algo",
               "algorithms",
@@ -821,7 +821,7 @@
             "language": null,
             "license": "CC0-1.0",
             "last_commit": "2026-10-23T08:16:08Z",
-            "open_issues": 114,
+            "open_issues": 116,
             "owner": "dictcp",
             "repo": "awesome-git",
             "stars": 2962,
@@ -945,7 +945,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-28T16:35:07.189Z",
+    "last_updated": "2026-10-29T16:52:53.757Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection about awesome blockchains - open distributed public databases w/ crypto hashes incl. git ;-).  Blockchains are the new tulips :tulip::tulip::tulip:. Distributed is the new centralized. ",
@@ -954,7 +954,7 @@
       "language": "Ruby",
       "license": "CC0-1.0",
       "last_commit": "2023-02-10T16:37:58Z",
-      "open_issues": 6,
+      "open_issues": 7,
       "owner": "openblockchains",
       "repo": "awesome-blockchains",
       "stars": 3783,
