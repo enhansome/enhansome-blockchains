@@ -250,7 +250,7 @@ by Xavier Decuyper, July 2017
 
 <!-- break -->
 
-Blockchain Series in Go by by Coral Health [(Source)](https://github.com/mycoralhealth/blockchain-tutorial) ⭐ 1,601 | 🐛 3 | 🌐 Go | 📅 2021-10-04
+Blockchain Series in Go by by Coral Health [(Source)](https://github.com/mycoralhealth/blockchain-tutorial) ⭐ 1,600 | 🐛 3 | 🌐 Go | 📅 2021-10-04
 
 * [**Code your own blockchain in less than 200 lines of Go!**](https://medium.com/@mycoralhealth/code-your-own-blockchain-in-less-than-200-lines-of-go-e296282bcffc) by Coral Health, January 2018
 * [**Part 2: Networking — Code your own blockchain in less than 200 lines of Go!**](https://medium.com/@mycoralhealth/part-2-networking-code-your-own-blockchain-in-less-than-200-lines-of-go-17fe1dad46e1) by Coral Health, February 2018
@@ -272,7 +272,7 @@ Blockchain Series in Go by by Coral Health [(Source)](https://github.com/mycoral
 
 ### More
 
-See [**Build your own Blockchain / Cryptocurrency**](https://github.com/danistefanovic/build-your-own-x#build-your-own-blockchain--cryptocurrency) ⭐ 557,821 | 🐛 687 | 🌐 Markdown | 📅 2026-07-14 @ Build your own (insert technology here)
+See [**Build your own Blockchain / Cryptocurrency**](https://github.com/danistefanovic/build-your-own-x#build-your-own-blockchain--cryptocurrency) ⭐ 558,077 | 🐛 688 | 🌐 Markdown | 📅 2026-07-14 @ Build your own (insert technology here)
 
 ### Samples
 
@@ -610,7 +610,7 @@ about 179 kilograms of CO₂ per bitcoin transaction (300 kW/h × 0.596 kg). For
 by Gerald Bauer et al, 2019 - FREE (Online Version) --
 *Let's start with building your own bitcoin stack machine from zero / scratch and let's run your own bitcoin ops (operations)...*
 
-[**Programming Blockchains in Ruby from Scratch Step-by-Step Starting w/ Crypto Hashes... ( Beta / Rough Draft )**](https://github.com/yukimotopress/programming-blockchains-step-by-step) ⭐ 681 | 🐛 0 | 🌐 Ruby | 📅 2021-01-02
+[**Programming Blockchains in Ruby from Scratch Step-by-Step Starting w/ Crypto Hashes... ( Beta / Rough Draft )**](https://github.com/yukimotopress/programming-blockchains-step-by-step) ⭐ 680 | 🐛 0 | 🌐 Ruby | 📅 2021-01-02
 by Gerald Bauer et al, 2018 - FREE (Online Version) --
 *(Crypto) Hash ++
 (Crypto) Block ++
@@ -622,7 +622,7 @@ Mining, Mining, Mining - What's Your Hash Rate? ++
 Bitcoin, Bitcoin, Bitcoin ++
 (Crypto) Block with Transactions (Tx)*
 
-[**Mastering Ethereum - Building Contract Services and Decentralized Apps on the Blockchain**](https://github.com/ethereumbook/ethereumbook) ⭐ 21,537 | 🐛 0 | 📅 2026-10-12 -
+[**Mastering Ethereum - Building Contract Services and Decentralized Apps on the Blockchain**](https://github.com/ethereumbook/ethereumbook) ⭐ 21,536 | 🐛 0 | 📅 2026-10-12 -
 by Andreas M. Antonopoulos, Gavin Wood, 2018 - FREE (Online Source Version)
 *What is Ethereum ++
 Introduction ++
@@ -995,11 +995,11 @@ More @ [cryptocopycats/awesome-cryptokitties](https://github.com/cryptocopycats/
 
 *A curated list of awesome lists.*
 
-* [**Awesome**](https://github.com/sindresorhus/awesome) ⭐ 527,845 | 🐛 105 | 📅 2026-09-02 by Sindre Sorhus et al -- a curated list of awesome lists
-* [**Awesome Coins**](https://github.com/kennethreitz/awesome-coins) ⭐ 4,118 | 🐛 23 | 📅 2023-07-20 by Kenneth Reitz et al -- a guide to crypto-currencies and their algos
-* [**Awesome Git**](https://github.com/dictcp/awesome-git) ⭐ 2,964 | 🐛 117 | 📅 2026-10-23 by Dick Tang et al -- a curated list of amazingly awesome Git tools, resources and shiny things
+* [**Awesome**](https://github.com/sindresorhus/awesome) ⭐ 528,375 | 🐛 105 | 📅 2026-09-02 by Sindre Sorhus et al -- a curated list of awesome lists
+* [**Awesome Coins**](https://github.com/kennethreitz/awesome-coins) ⭐ 4,119 | 🐛 23 | 📅 2023-07-20 by Kenneth Reitz et al -- a guide to crypto-currencies and their algos
+* [**Awesome Git**](https://github.com/dictcp/awesome-git) ⭐ 2,965 | 🐛 117 | 📅 2026-10-23 by Dick Tang et al -- a curated list of amazingly awesome Git tools, resources and shiny things
 * [**Awesome Blockchain**](https://github.com/imbaniac/awesome-blockchain) ⭐ 894 | 🐛 22 | 📅 2024-04-02 by Tim Reznich et al -- a curated list of blockchain services and exchanges
-* [**Awesome Blockchain**](https://github.com/igorbarinov/awesome-blockchain) ⭐ 631 | 🐛 10 | 📅 2023-02-10 by Igor Barinov et al -- a curated list of the bitcoin blockchain services
+* [**Awesome Blockchain**](https://github.com/igorbarinov/awesome-blockchain) ⭐ 632 | 🐛 10 | 📅 2023-02-10 by Igor Barinov et al -- a curated list of the bitcoin blockchain services
 * [**Awesome CryptoKitties (and CryptoCopycats)**](https://github.com/openblockchains/awesome-cryptokitties) ⭐ 523 | 🐛 0 | 🌐 Ruby | 📅 2021-04-21 by Gerald Bauer et al -- a curated list about the awesome crypto kitties and copycats
 * [**Awesome Blockchain**](https://github.com/istinspring/awesome-blockchain) ⭐ 56 | 🐛 0 | 📅 2025-11-02 by `istinspring` et al -- a curated list of awesome projects and services based on blockchain technology
 * [**Blockchain Stuff**](https://github.com/Xel/Blockchain-stuff) -- a curated list of blockchain and general cryptocurrency resources
@@ -1015,4 +1015,4 @@ The awesome list is dedicated to the public domain. Use it as you please with no
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-31._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-01._
