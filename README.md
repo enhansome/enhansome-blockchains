@@ -272,7 +272,7 @@ Blockchain Series in Go by by Coral Health [(Source)](https://github.com/mycoral
 
 ### More
 
-See [**Build your own Blockchain / Cryptocurrency**](https://github.com/danistefanovic/build-your-own-x#build-your-own-blockchain--cryptocurrency) ⭐ 560,354 | 🐛 689 | 🌐 Markdown | 📅 2026-07-14 @ Build your own (insert technology here)
+See [**Build your own Blockchain / Cryptocurrency**](https://github.com/danistefanovic/build-your-own-x#build-your-own-blockchain--cryptocurrency) ⭐ 560,689 | 🐛 691 | 🌐 Markdown | 📅 2026-07-14 @ Build your own (insert technology here)
 
 ### Samples
 
@@ -995,9 +995,9 @@ More @ [cryptocopycats/awesome-cryptokitties](https://github.com/cryptocopycats/
 
 *A curated list of awesome lists.*
 
-* [**Awesome**](https://github.com/sindresorhus/awesome) ⭐ 532,278 | 🐛 103 | 📅 2026-09-02 by Sindre Sorhus et al -- a curated list of awesome lists
+* [**Awesome**](https://github.com/sindresorhus/awesome) ⭐ 532,981 | 🐛 103 | 📅 2026-09-02 by Sindre Sorhus et al -- a curated list of awesome lists
 * [**Awesome Coins**](https://github.com/kennethreitz/awesome-coins) ⭐ 4,122 | 🐛 23 | 📅 2023-07-20 by Kenneth Reitz et al -- a guide to crypto-currencies and their algos
-* [**Awesome Git**](https://github.com/dictcp/awesome-git) ⭐ 2,970 | 🐛 120 | 📅 2026-10-23 by Dick Tang et al -- a curated list of amazingly awesome Git tools, resources and shiny things
+* [**Awesome Git**](https://github.com/dictcp/awesome-git) ⭐ 2,970 | 🐛 123 | 📅 2026-10-23 by Dick Tang et al -- a curated list of amazingly awesome Git tools, resources and shiny things
 * [**Awesome Blockchain**](https://github.com/imbaniac/awesome-blockchain) ⭐ 894 | 🐛 22 | 📅 2024-04-02 by Tim Reznich et al -- a curated list of blockchain services and exchanges
 * [**Awesome Blockchain**](https://github.com/igorbarinov/awesome-blockchain) ⭐ 632 | 🐛 10 | 📅 2023-02-10 by Igor Barinov et al -- a curated list of the bitcoin blockchain services
 * [**Awesome CryptoKitties (and CryptoCopycats)**](https://github.com/openblockchains/awesome-cryptokitties) ⭐ 523 | 🐛 0 | 🌐 Ruby | 📅 2021-04-21 by Gerald Bauer et al -- a curated list about the awesome crypto kitties and copycats
@@ -1015,4 +1015,4 @@ The awesome list is dedicated to the public domain. Use it as you please with no
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-06._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-07._
