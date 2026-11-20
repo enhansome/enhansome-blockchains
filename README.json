@@ -63,7 +63,7 @@
                 "open_issues": 8,
                 "owner": "adilmoujahid",
                 "repo": "blockchain-python-tutorial",
-                "stars": 642,
+                "stars": 641,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:10:11.969Z"
@@ -179,7 +179,7 @@
                 "open_issues": 2,
                 "owner": "CryptoKass",
                 "repo": "NoobChain-Tutorial-Part-1",
-                "stars": 332,
+                "stars": 331,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:10:11.969Z"
@@ -295,7 +295,7 @@
                 "open_issues": 50,
                 "owner": "Jeiwan",
                 "repo": "blockchain_go",
-                "stars": 4372,
+                "stars": 4371,
                 "topics": [
                   "bitcoin",
                   "blockchain",
@@ -444,7 +444,7 @@
             "open_issues": 195,
             "owner": "bitcoinbook",
             "repo": "bitcoinbook",
-            "stars": 25362,
+            "stars": 25361,
             "topics": [
               "bitcoin",
               "bitcoin-api",
@@ -540,7 +540,7 @@
             "open_issues": 1,
             "owner": "ethereumbook",
             "repo": "ethereumbook",
-            "stars": 21545,
+            "stars": 21548,
             "topics": [
               "blockchain",
               "book",
@@ -761,7 +761,7 @@
             "open_issues": 103,
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 539422,
+            "stars": 539914,
             "topics": [
               "awesome",
               "awesome-list",
@@ -788,7 +788,7 @@
             "open_issues": 23,
             "owner": "Zheaoli",
             "repo": "awesome-coins",
-            "stars": 4123,
+            "stars": 4122,
             "topics": [
               "algo",
               "algorithms",
@@ -824,7 +824,7 @@
             "open_issues": 130,
             "owner": "dictcp",
             "repo": "awesome-git",
-            "stars": 2982,
+            "stars": 2983,
             "topics": [
               "awesome",
               "awesome-list",
@@ -945,7 +945,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-19T18:57:32.902Z",
+    "last_updated": "2026-11-20T18:34:00.166Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection about awesome blockchains - open distributed public databases w/ crypto hashes incl. git ;-).  Blockchains are the new tulips :tulip::tulip::tulip:. Distributed is the new centralized. ",
@@ -957,7 +957,7 @@
       "open_issues": 7,
       "owner": "openblockchains",
       "repo": "awesome-blockchains",
-      "stars": 3781,
+      "stars": 3780,
       "topics": [
         "blockchain",
         "content-addressable-storage",
