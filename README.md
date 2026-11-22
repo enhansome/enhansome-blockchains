@@ -272,7 +272,7 @@ Blockchain Series in Go by by Coral Health [(Source)](https://github.com/mycoral
 
 ### More
 
-See [**Build your own Blockchain / Cryptocurrency**](https://github.com/danistefanovic/build-your-own-x#build-your-own-blockchain--cryptocurrency) ⭐ 564,359 | 🐛 639 | 🌐 Markdown | 📅 2026-11-19 @ Build your own (insert technology here)
+See [**Build your own Blockchain / Cryptocurrency**](https://github.com/danistefanovic/build-your-own-x#build-your-own-blockchain--cryptocurrency) ⭐ 564,692 | 🐛 640 | 🌐 Markdown | 📅 2026-11-19 @ Build your own (insert technology here)
 
 ### Samples
 
@@ -622,7 +622,7 @@ Mining, Mining, Mining - What's Your Hash Rate? ++
 Bitcoin, Bitcoin, Bitcoin ++
 (Crypto) Block with Transactions (Tx)*
 
-[**Mastering Ethereum - Building Contract Services and Decentralized Apps on the Blockchain**](https://github.com/ethereumbook/ethereumbook) ⭐ 21,548 | 🐛 1 | 📅 2026-10-12 -
+[**Mastering Ethereum - Building Contract Services and Decentralized Apps on the Blockchain**](https://github.com/ethereumbook/ethereumbook) ⭐ 21,550 | 🐛 1 | 📅 2026-10-12 -
 by Andreas M. Antonopoulos, Gavin Wood, 2018 - FREE (Online Source Version)
 *What is Ethereum ++
 Introduction ++
@@ -995,8 +995,8 @@ More @ [cryptocopycats/awesome-cryptokitties](https://github.com/cryptocopycats/
 
 *A curated list of awesome lists.*
 
-* [**Awesome**](https://github.com/sindresorhus/awesome) ⭐ 540,402 | 🐛 103 | 📅 2026-09-02 by Sindre Sorhus et al -- a curated list of awesome lists
-* [**Awesome Coins**](https://github.com/kennethreitz/awesome-coins) ⭐ 4,123 | 🐛 23 | 📅 2023-07-20 by Kenneth Reitz et al -- a guide to crypto-currencies and their algos
+* [**Awesome**](https://github.com/sindresorhus/awesome) ⭐ 540,972 | 🐛 103 | 📅 2026-09-02 by Sindre Sorhus et al -- a curated list of awesome lists
+* [**Awesome Coins**](https://github.com/kennethreitz/awesome-coins) ⭐ 4,124 | 🐛 23 | 📅 2023-07-20 by Kenneth Reitz et al -- a guide to crypto-currencies and their algos
 * [**Awesome Git**](https://github.com/dictcp/awesome-git) ⭐ 2,983 | 🐛 131 | 📅 2026-10-23 by Dick Tang et al -- a curated list of amazingly awesome Git tools, resources and shiny things
 * [**Awesome Blockchain**](https://github.com/imbaniac/awesome-blockchain) ⭐ 895 | 🐛 21 | 📅 2024-04-02 by Tim Reznich et al -- a curated list of blockchain services and exchanges
 * [**Awesome Blockchain**](https://github.com/igorbarinov/awesome-blockchain) ⭐ 633 | 🐛 10 | 📅 2023-02-10 by Igor Barinov et al -- a curated list of the bitcoin blockchain services
@@ -1015,4 +1015,4 @@ The awesome list is dedicated to the public domain. Use it as you please with no
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-21._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-22._
