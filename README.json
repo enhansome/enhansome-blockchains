@@ -444,7 +444,7 @@
             "open_issues": 195,
             "owner": "bitcoinbook",
             "repo": "bitcoinbook",
-            "stars": 25364,
+            "stars": 25365,
             "topics": [
               "bitcoin",
               "bitcoin-api",
@@ -540,7 +540,7 @@
             "open_issues": 1,
             "owner": "ethereumbook",
             "repo": "ethereumbook",
-            "stars": 21551,
+            "stars": 21554,
             "topics": [
               "blockchain",
               "book",
@@ -761,7 +761,7 @@
             "open_issues": 103,
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 542255,
+            "stars": 542749,
             "topics": [
               "awesome",
               "awesome-list",
@@ -785,7 +785,7 @@
             "language": null,
             "license": "CC0-1.0",
             "last_commit": "2023-07-20T07:10:14Z",
-            "open_issues": 23,
+            "open_issues": 22,
             "owner": "Zheaoli",
             "repo": "awesome-coins",
             "stars": 4125,
@@ -847,7 +847,7 @@
             "language": null,
             "license": null,
             "last_commit": "2024-04-02T13:22:26Z",
-            "open_issues": 21,
+            "open_issues": 20,
             "owner": "imbaniac",
             "repo": "awesome-blockchain",
             "stars": 895,
@@ -877,7 +877,7 @@
             "language": null,
             "license": null,
             "last_commit": "2023-02-10T16:15:01Z",
-            "open_issues": 10,
+            "open_issues": 9,
             "owner": "igorbarinov",
             "repo": "awesome-blockchain",
             "stars": 633,
@@ -945,7 +945,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-24T20:37:08.606Z",
+    "last_updated": "2026-11-25T19:52:58.626Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection about awesome blockchains - open distributed public databases w/ crypto hashes incl. git ;-).  Blockchains are the new tulips :tulip::tulip::tulip:. Distributed is the new centralized. ",
@@ -957,7 +957,7 @@
       "open_issues": 7,
       "owner": "openblockchains",
       "repo": "awesome-blockchains",
-      "stars": 3781,
+      "stars": 3780,
       "topics": [
         "blockchain",
         "content-addressable-storage",
